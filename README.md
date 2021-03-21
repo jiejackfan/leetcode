@@ -1,5 +1,5 @@
-# LearningLeetcode
-My personal repository to practice on Leetcode, including weekly contests.
+# Learning Leetcode
+My personal repository to practice on Leetcode.
 
 
 # HashMap
