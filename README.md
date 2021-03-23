@@ -12,6 +12,11 @@ My personal repository to practice on Leetcode.
 |---|---|---|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./LinkedList/2_AddTwoNumbers.java) |
 
+# Sliding Window
+| NUM | TITLE | Solution |
+|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) |
+
 
 
 
