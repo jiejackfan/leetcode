@@ -20,7 +20,7 @@ My personal repository to practice on Leetcode.
 # String
 | NUM | TITLE | Solution |
 |---|---|---|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) |
 
 
 
