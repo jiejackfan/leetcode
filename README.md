@@ -5,7 +5,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
-
+| 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | 
@@ -17,13 +17,10 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 
-
-
 # HashMap
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 |
-
 
 # LinkedList
 | NUM | TITLE | Solution | Date Visited | 
