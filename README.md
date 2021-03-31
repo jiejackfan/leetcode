@@ -12,6 +12,12 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./Design/146_LRUCache.java) | 03/27/2021 |
 
+# Dynamic Programming
+| NUM | TITLE | Solution | Date Visited | 
+|---|---|---|---|
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
+
+
 
 # HashMap
 | NUM | TITLE | Solution | Date Visited | 
