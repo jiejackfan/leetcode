@@ -37,8 +37,9 @@ My personal repository to practice on Leetcode.
 # Sorting and Searching
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./SlidingWindow/88_MergeSortedArray.java) | 04/09/2021 |
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./SlidingWindow/278_FirstBadVersion.java) | 04/09/2021 |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./Sorting and Searching/88_MergeSortedArray.java) | 04/09/2021 |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./Sorting_and_Searching/278_FirstBadVersion.java) | 04/09/2021 |
+
 
 # Sliding Window
 | NUM | TITLE | Solution | Date Visited | 
