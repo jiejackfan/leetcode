@@ -38,6 +38,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./SlidingWindow/88_MergeSortedArray.java) | 04/09/2021 |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./SlidingWindow/278_FirstBadVersion.java) | 04/09/2021 |
 
 # Sliding Window
 | NUM | TITLE | Solution | Date Visited | 
