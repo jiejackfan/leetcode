@@ -34,9 +34,10 @@ My personal repository to practice on Leetcode.
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
 
-
-
-
+# Sorting and Searching
+| NUM | TITLE | Solution | Date Visited | 
+|---|---|---|---|
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./SlidingWindow/88_MergeSortedArray.java) | 04/09/2021 |
 
 # Sliding Window
 | NUM | TITLE | Solution | Date Visited | 
