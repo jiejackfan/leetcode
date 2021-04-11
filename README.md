@@ -15,8 +15,10 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./DynamicProgramming/DynamicProgramming\DynamicProgramming\53_MaximumSubarray.java) | 04/11/2021 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/DynamicProgramming\70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/DynamicProgramming\121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
 
 # HashMap
 | NUM | TITLE | Solution | Date Visited | 
