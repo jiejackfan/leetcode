@@ -4,8 +4,10 @@ My personal repository to practice on Leetcode.
 # Array
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./Array/26_RemoveDuplicatesFromSortedArray.java) | 04/15/2021 |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | 
@@ -15,11 +17,11 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./DynamicProgramming/DynamicProgramming\DynamicProgramming\53_MaximumSubarray.java) | 04/11/2021 |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/DynamicProgramming\70_ClimbingStairs.java) | 04/10/2021 |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./DynamicProgramming/DynamicProgramming/53_MaximumSubarray.java) | 04/11/2021 |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/DynamicProgramming\121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/DynamicProgramming\DynamicProgramming\198_HouseRobber.java) | 04/15/2021 |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
 
 
 # HashMap
