@@ -8,6 +8,7 @@ My personal repository to practice on Leetcode.
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./Array/189_RotateArray.java) | 04/16/2021 |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | 
