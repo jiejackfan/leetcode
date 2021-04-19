@@ -12,6 +12,7 @@ My personal repository to practice on Leetcode.
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./Array/189_RotateArray.java) | 04/16/2021 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./Array/283_MoveZeroes.java) | 04/19/2021 |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
 
 # Design
