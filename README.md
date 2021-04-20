@@ -35,7 +35,7 @@ My personal repository to practice on Leetcode.
 # HashMap
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 \ 04/18/2021|
 
 # LinkedList
 | NUM | TITLE | Solution | Date Visited | 
@@ -65,6 +65,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 |
 
 # Tree
 | NUM | TITLE | Solution | Date Visited | 
