@@ -67,6 +67,7 @@ My personal repository to practice on Leetcode.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](./String/7_ReverseInteger.java) | 04/20/2021 |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./String/8_StringToIntegerAtoi.java) | 04/21/2021 |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 |
