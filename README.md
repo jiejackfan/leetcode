@@ -21,6 +21,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./Design/146_LRUCache.java) | 03/27/2021 |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Design/155_MinStack.java) | 04/23/2021 |
 
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | 
@@ -49,6 +50,11 @@ My personal repository to practice on Leetcode.
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
 
+# Math
+| NUM | TITLE | Solution | Date Visited | 
+|---|---|---|---|
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./LinkedList/412_FizzBuzz.java) | 04/24/2021 |
+
 # Sorting and Searching
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
@@ -67,6 +73,7 @@ My personal repository to practice on Leetcode.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](./String/7_ReverseInteger.java) | 04/20/2021 |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./String/8_StringToIntegerAtoi.java) | 04/21/2021 |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./String/14_LongestCommonPrefix.java) | 04/23/2021 |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
