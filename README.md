@@ -83,11 +83,14 @@ My personal repository to practice on Leetcode.
 # Tree
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Tree/94_BinaryTreeInorderTraversal.java) | 04/25/2021 |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Tree/98_ValidateBinarySearchTree.java) | 04/2/2021 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Tree/102_BinaryTreeLevelOrderTraversal.java) | 04/2/2021 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Tree/108_ConvertSortedArrayToBinarySearchTree.java) | 04/3/2021 |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_ BinaryTreePreorderTraversal.java) | 04/25/2021 |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Tree/145_BinaryTreePostorderTraversal.java) | 04/25/2021 |
 
 
 
