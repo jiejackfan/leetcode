@@ -87,7 +87,9 @@ My personal repository to practice on Leetcode.
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Tree/98_ValidateBinarySearchTree.java) | 04/2/2021 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Tree/102_BinaryTreeLevelOrderTraversal.java) | 04/2/2021 04/26/2021 |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 4/26/2021 |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 04/26/2021 |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Tree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 04/28/2021 |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Tree/108_ConvertSortedArrayToBinarySearchTree.java) | 04/3/2021 |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./Tree/112_PathSum.java) | 04/26/2021 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_BinaryTreePreorderTraversal.java) | 04/25/2021 |
