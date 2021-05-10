@@ -45,6 +45,7 @@ My personal repository to practice on Leetcode.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LinkedList/21_MergeTwoSortedLists.java) | 04/08/2021 |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./LinkedList/23_MergeKSortedLists.java) | 03/27/2021 |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
@@ -79,7 +80,7 @@ My personal repository to practice on Leetcode.
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
 
 # Tree
