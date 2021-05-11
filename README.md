@@ -47,7 +47,7 @@ My personal repository to practice on Leetcode.
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./LinkedList/23_MergeKSortedLists.java) | 03/27/2021 |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 05/11/2021 |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
 

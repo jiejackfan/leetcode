@@ -1,4 +1,5 @@
 // April 6, 2021
+// May 11, 2021 in recursion lesson stack 1
 // tags: Linked List, Iterative, Recursion
 
 /**
@@ -13,7 +14,9 @@
  */
 class Solution {
     // Iterative
-    // Go through the list from head to tail
+    // O(n) size of linked list
+    // O(1) no extra storage space
+    // Go through the list from head to tail, switching next pointers one by one. Saves the previous node so current node can have a target for its next pointer.
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
@@ -34,14 +37,22 @@ class Solution {
     }
     
     // Recursive
+    // O(n)
+    // O(n) recursion stack
+    // Recur to the last item, work backwards. Always return the last head so at the end we can return the last item. Change the next
+    // pointers accordingly. This works without using a helper function.
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
-        
-        ListNode p = reverseList(head.next);
+
+        // recur and keep track of the last node, which is also the new head
+        ListNode finalNode = reverseList(head.next);
+
+        // change next pointers
         head.next.next = head;
         head.next = null;
-        return p;
+
+        return finalNode;
     }
 }
