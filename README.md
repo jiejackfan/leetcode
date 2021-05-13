@@ -100,6 +100,8 @@ My personal repository to practice on Leetcode.
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_BinaryTreePreorderTraversal.java) | 04/25/2021 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Tree/145_BinaryTreePostorderTraversal.java) | 04/25/2021 |
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Solution](./Tree/250_CountUnivalueSubtrees.java) | 04/27/2021 |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 |
+
 
 
 
