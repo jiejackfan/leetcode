@@ -30,6 +30,7 @@ My personal repository to practice on Leetcode.
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
 
 
