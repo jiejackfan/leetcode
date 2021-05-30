@@ -3,7 +3,7 @@ My personal repository to practice on Leetcode.
 
 # Array
 | NUM | TITLE | Solution | Date Visited | Difficulty
-|---|---|---|---|
+|---|---|---|---|---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./Array/26_RemoveDuplicatesFromSortedArray.java) | 04/15/2021 |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
