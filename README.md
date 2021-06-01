@@ -4,6 +4,8 @@ My personal repository to practice on Leetcode.
 # Array
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 \ 04/18/2021| Easy |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./Array/26_RemoveDuplicatesFromSortedArray.java) | 04/15/2021 |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
@@ -12,6 +14,7 @@ My personal repository to practice on Leetcode.
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./Array/167_TwoSum2.java) | 05/31/2021 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./Array/189_RotateArray.java) | 04/16/2021 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./Array/283_MoveZeroes.java) | 04/19/2021 |
@@ -35,11 +38,6 @@ My personal repository to practice on Leetcode.
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
 
-
-# HashMap
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 \ 04/18/2021|
 
 # LinkedList
 | NUM | TITLE | Solution | Date Visited | 
