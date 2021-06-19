@@ -4,7 +4,7 @@ My personal repository to practice on Leetcode.
 # Array
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 \ 04/18/2021| Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./Array/16_3SumClosest.java) | 06/15/2021 | Medium |
@@ -77,14 +77,15 @@ My personal repository to practice on Leetcode.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 |
 
 # String
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
+| NUM | TITLE | Solution | Date Visited | Difficulty
+|---|---|---|---|---|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](./String/7_ReverseInteger.java) | 04/20/2021 |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./String/8_StringToIntegerAtoi.java) | 04/21/2021 |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](./String/12_IntegerToRoman.java) | 05/10/2021 |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./String/13_RomanToInteger.java) | 05/08/2021 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./String/14_LongestCommonPrefix.java) | 04/23/2021 |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./Array/22_GenerateParentheses.java) | 06/19/2021 | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
