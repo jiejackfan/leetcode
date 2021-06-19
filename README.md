@@ -11,7 +11,9 @@ My personal repository to practice on Leetcode.
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./Array/26_RemoveDuplicatesFromSortedArray.java) | 04/15/2021 |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](./Array/31_NextPermutation.java) | 06/09/2021 | Medium |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./Array/34_FindFirstAndLastPositionOfElementInSortedArray.java) | 06/17/2021 | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./Array/39_CombinationSum.java) | 06/18/2021 | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Array/54_SpiralMatrix.java) | 06/17/2021 | Medium |
