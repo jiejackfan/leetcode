@@ -80,11 +80,13 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./Array/6_ZigZagConversion.java) | 06/20/2021 | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](./String/7_ReverseInteger.java) | 04/20/2021 |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./String/8_StringToIntegerAtoi.java) | 04/21/2021 |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](./String/12_IntegerToRoman.java) | 05/10/2021 |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./String/13_RomanToInteger.java) | 05/08/2021 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./String/14_LongestCommonPrefix.java) | 04/23/2021 |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./Array/17_LetterCombinationsOfAPhoneNumber.java) | 06/21/2021 | Medium |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./Array/22_GenerateParentheses.java) | 06/19/2021 | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
