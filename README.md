@@ -14,6 +14,7 @@ My personal repository to practice on Leetcode.
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./Array/34_FindFirstAndLastPositionOfElementInSortedArray.java) | 06/17/2021 | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./Array/39_CombinationSum.java) | 06/18/2021 | Medium |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./Array/41_FirstMissingPositive.java) | 06/22/2021 | Hard |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Array/54_SpiralMatrix.java) | 06/17/2021 | Medium |
