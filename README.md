@@ -18,11 +18,13 @@ My personal repository to practice on Leetcode.
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Array/46_Permutations.java) | 06/22/2021 | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Array/54_SpiralMatrix.java) | 06/17/2021 | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/plus-one/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./Array/167_TwoSum2.java) | 05/31/2021 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./Array/189_RotateArray.java) | 04/16/2021 |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
@@ -40,12 +42,11 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./DynamicProgramming/DynamicProgramming/53_MaximumSubarray.java) | 04/11/2021 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
 
 
 # LinkedList
