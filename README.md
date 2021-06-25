@@ -4,13 +4,13 @@ My personal repository to practice on Leetcode.
 # Array
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
+| 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
+| 11* | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
+| 15* | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./Array/16_3SumClosest.java) | 06/15/2021 | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./Array/26_RemoveDuplicatesFromSortedArray.java) | 04/15/2021 |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](./Array/31_NextPermutation.java) | 06/09/2021 | Medium |
-| 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
+| 33* | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./Array/34_FindFirstAndLastPositionOfElementInSortedArray.java) | 06/17/2021 | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./Array/39_CombinationSum.java) | 06/18/2021 | Medium |
@@ -18,16 +18,18 @@ My personal repository to practice on Leetcode.
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Array/46_Permutations.java) | 06/22/2021 | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
+| 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Array/54_SpiralMatrix.java) | 06/17/2021 | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/plus-one/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 |
+| 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
+| 152* | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
+| 153* | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Array/153_FindMinimumInRotatedSortedArray.java) | 06/24/2021 | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./Array/167_TwoSum2.java) | 05/31/2021 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./Array/189_RotateArray.java) | 04/16/2021 |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
+| 217* | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
+| 238* | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Array/238_ProductOfArrayExceptSelf.java) | 06/23/2021 | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./Array/283_MoveZeroes.java) | 04/19/2021 |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
