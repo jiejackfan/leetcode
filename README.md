@@ -64,9 +64,11 @@ My personal repository to practice on Leetcode.
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
 
-# Math
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
+# Math & Binary
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./LinkedList/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
+| 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./LinkedList/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./LinkedList/412_FizzBuzz.java) | 04/24/2021 |
 
 # Sorting and Searching
