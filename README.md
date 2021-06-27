@@ -44,11 +44,12 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
+| 70* | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
+| 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
 
 
 # LinkedList
@@ -67,9 +68,11 @@ My personal repository to practice on Leetcode.
 # Math & Binary
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./LinkedList/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
-| 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./LinkedList/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./LinkedList/412_FizzBuzz.java) | 04/24/2021 |
+| 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
+| 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
+| 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
+| 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
 
 # Sorting and Searching
 | NUM | TITLE | Solution | Date Visited | 
