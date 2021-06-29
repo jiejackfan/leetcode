@@ -4,7 +4,7 @@ My personal repository to practice on Leetcode.
 # Array
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
-| 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./HashMap/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
+| 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Array/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
 | 11* | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
 | 15* | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./Array/16_3SumClosest.java) | 06/15/2021 | Medium |
@@ -20,7 +20,6 @@ My personal repository to practice on Leetcode.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Array/54_SpiralMatrix.java) | 06/17/2021 | Medium |
-| 56 | [Merge Intervals](https://leetcode.com/problems/plus-one/) | [Solution](./Array/56_MergeIntervals.java) | 03/28/2021 |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
@@ -56,7 +55,14 @@ My personal repository to practice on Leetcode.
 # Graph
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
-| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Array/133_ClonedGraph.java) | 06/28/2021 | Medium
+| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium
+
+# Interval
+| NUM | TITLE | Solution | Date Visited | Difficulty
+|---|---|---|---|---|
+| 56* | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Interval/56_MergeIntervals.java) | 03/28/2021 |
+| 57* | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/57_InsertInterval.java) | 06/29/2021 | Medium
+
 
 # LinkedList
 | NUM | TITLE | Solution | Date Visited | 
@@ -79,6 +85,12 @@ My personal repository to practice on Leetcode.
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
+
+# Matrix
+| NUM | TITLE | Solution | Date Visited | Difficulty
+|---|---|---|---|---|
+| 73* | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Interval/73_SetMatrixZeros.java) | 06/29/2021 |
+
 
 # Sorting and Searching
 | NUM | TITLE | Solution | Date Visited | 
