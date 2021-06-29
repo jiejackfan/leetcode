@@ -19,7 +19,6 @@ My personal repository to practice on Leetcode.
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Array/54_SpiralMatrix.java) | 06/17/2021 | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
@@ -53,12 +52,17 @@ My personal repository to practice on Leetcode.
 | 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
 
 # Graph
-| NUM | TITLE | Solution | Date Visited | Difficulty
+| NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium
 
+# Heap
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 |
+
 # Interval
-| NUM | TITLE | Solution | Date Visited | Difficulty
+| NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 56* | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Interval/56_MergeIntervals.java) | 03/28/2021 |
 | 57* | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/57_InsertInterval.java) | 06/29/2021 | Medium
@@ -70,7 +74,6 @@ My personal repository to practice on Leetcode.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./LinkedList/2_AddTwoNumbers.java) | 03/21/2021 |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LinkedList/21_MergeTwoSortedLists.java) | 04/08/2021 |
-| 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./LinkedList/23_MergeKSortedLists.java) | 03/27/2021 |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 05/11/2021 |
@@ -87,9 +90,10 @@ My personal repository to practice on Leetcode.
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
 
 # Matrix
-| NUM | TITLE | Solution | Date Visited | Difficulty
+| NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 73* | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Interval/73_SetMatrixZeros.java) | 06/29/2021 |
+| 54* | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Matrix/54_SpiralMatrix.java) | 06/17/2021 | Medium |
+| 73* | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Matrix/73_SetMatrixZeros.java) | 06/29/2021 | Medium |
 
 
 # Sorting and Searching
@@ -123,21 +127,24 @@ My personal repository to practice on Leetcode.
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
 
 # Tree
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Tree/94_BinaryTreeInorderTraversal.java) | 04/25/2021 |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Tree/98_ValidateBinarySearchTree.java) | 04/2/2021 |
+| 100* | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./Tree/100_SameTree.java) | 06/29/2021 | Easy | 
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Tree/102_BinaryTreeLevelOrderTraversal.java) | 04/2/2021 04/26/2021 |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 04/26/2021 |
+| 104* | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 04/26/2021 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Tree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 04/28/2021 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Tree/108_ConvertSortedArrayToBinarySearchTree.java) | 04/3/2021 |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./Tree/112_PathSum.java) | 04/26/2021 |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Tree/116_PopulatingNextRightPointersInEachNode.java) | 04/29/2021 |
+| 124* | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Tree/124_BinaryTreeMaximumPathSum.java) | 06/29/2021 | Hard | 
 | 117 | [Populating Next Right Pointers in Each Node 2](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./Tree/117_PopulatingNextRightPointersInEachNode2.java) | 04/30/2021 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_BinaryTreePreorderTraversal.java) | 04/25/2021 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Tree/145_BinaryTreePostorderTraversal.java) | 04/25/2021 |
+| 226* | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./Tree/226_InvertBinaryTree.java) | 06/29/2021 | Easy | 
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Solution](./Tree/250_CountUnivalueSubtrees.java) | 04/27/2021 |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 |
 
