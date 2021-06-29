@@ -53,6 +53,10 @@ My personal repository to practice on Leetcode.
 | 300* | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./DynamicProgramming/300_LongestIncreasingSubsequence.java) | 06/27/2021 |
 | 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
 
+# Graph
+| NUM | TITLE | Solution | Date Visited | Difficulty
+|---|---|---|---|---|
+| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Array/133_ClonedGraph.java) | 06/28/2021 | Medium
 
 # LinkedList
 | NUM | TITLE | Solution | Date Visited | 
