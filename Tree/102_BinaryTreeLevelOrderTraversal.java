@@ -1,4 +1,5 @@
 // April 2 2021
+// 06/29/2021
 // tag: Tree, DFS, BFS
 
 /**
@@ -17,58 +18,61 @@
  * }
  */
 class Solution {
-    // DFS pre-order 
-    // O(n), O(n)
-    // Helper function keeps track of the level, and adds node to any level it wants.
-    List<List<Integer>> levels = new ArrayList<List<Integer>>();
-    
-    public void helper(TreeNode node, int level) {
-        // add this node to current level
-        // if the current level exceeds the size of levels list
-        if (levels.size() == level) {
-            levels.add(new ArrayList<Integer>());
-        }
-        levels.get(level).add(node.val);
-        
-        // process the children of this node using recursion
-        if (node.left != null)
-            helper(node.left, level+1);
-        if (node.right != null) 
-            helper(node.right, level+1);
-        
-    }
-    
+    // Approach 1: DFS recursion
+    // O(n)
+    // O(n)
+    // Pre-order traversal where we put current node in list first and put the children in list using recursion   
+    List<List<Integer>> list = new ArrayList<List<Integer>>();
     public List<List<Integer>> levelOrder(TreeNode root) {
-        if (root == null) return levels;
         helper(root, 0);
-        return levels;
+        return list;
     }
     
-    // BFS traversal, put all the nodes in a level at once.
-    // O(n), O(n)
+    // helper function used in recursion, this function will take in level var to know which list this node belongs in
+    private void helper(TreeNode node, int level) {
+        // base case to return from recursion
+        if (node == null) return; 
+        
+        // need to add complete new level into the list
+        if (list.size() == level)
+            list.add(new ArrayList<Integer>());
+        
+        // fill current level
+        list.get(level).add(node.val);
+        
+        // recur on the children nodes
+        helper(node.left, level + 1);
+        helper(node.right, level + 1);
+        
+        return;
+    }
+    
+    // Approach 2: BFS Iterative
+    // Build a queue, at the end of each while is a level. 
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> levels = new ArrayList<List<Integer>>();
-        if (root == null) return levels;
+        // initialize data structure
+        List<List<Integer>> list = new ArrayList<List<Integer>>();
+        if (root == null) return list;
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
+        
         queue.add(root);
         
-        int level = 0;
-        while(!queue.isEmpty()) {
-            // add new level
-            levels.add(new ArrayList<Integer>());
+        while (!queue.isEmpty()) {
+            // add new level to list
+            list.add(new ArrayList<Integer>());
             
-            int length = queue.size();
-            // add all nodes from current level into levels list
-            for (int i = 0; i < length; i++) {
-                TreeNode node = queue.remove();
-                levels.get(level).add(node.val);
-                
-                if(node.left != null) queue.add(node.left);
-                if(node.right != null) queue.add(node.right);
+            // calculate the amount of nodes in this level, obtain this amount from queue
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode cur = queue.poll();
+                // add cur to list
+                list.get(list.size() - 1).add(cur.val);
+                // add cur children to queue
+                if (cur.left != null) queue.add(cur.left);
+                if (cur.right != null) queue.add(cur.right);
             }
-            
-            level++;
         }
-        return levels;
+        
+        return list;
     }
 }
