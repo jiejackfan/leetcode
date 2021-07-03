@@ -21,23 +21,27 @@ class Solution {
     // All nodes in left subtree are smaller, all nodes in right subtree are larger
     
     
-//     // Recursion DFS pre-order:
-//     // O(n) go through each node once, O(n) keep up entire tree during recursion
-    public boolean validate(TreeNode node, Integer low, Integer high) {
-        if (node == null) {
-            return true;
-        }
-        //check if the value of this current node is in between the limits given
-        if ( (low != null && low >= node.val) || (high != null && high <= node.val)) {
+    // recursion DFS
+    // binary search trees property: left subtree values are smaller than root, right subtree values are larger than root
+    // O(n) once thru every element
+    // O(logn) recursion stack 
+    public boolean isValidBST(TreeNode root) {
+        return recur(root, null, null);
+    }
+    
+    // recursion helper sets up lower/upper bound for entire subtree
+    // slowly this will develop into a range limit for each node
+    private boolean recur(TreeNode node, Integer low, Integer high) {
+        // base case
+        if (node == null) return true;
+        
+        // check if current section of tree is valid BST
+        if ((low != null && node.val <= low) || (high != null && node.val >= high)) {
             return false;
         }
-        return validate(node.left, low, node.val) && validate(node.right, node.val, high);
+        
+        // recur on children elements
+        return recur(node.left, low, node.val) && recur(node.right, node.val, high);
     }
-    
-    // 
-    public boolean isValidBST(TreeNode root) {
-        return validate(root, null, null);
-    }
-    
 
 }

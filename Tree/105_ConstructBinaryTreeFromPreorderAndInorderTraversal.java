@@ -17,38 +17,34 @@
  */
 class Solution {
     
-    // recursion: reverse of preorder
-    // build from root --> right --> left
-    // O(n)
-    // O(n) hashmap
-    
-    HashMap<Integer, Integer> map = new HashMap<>();
-    int[] preOrder;
-    int preOrderIndex;
+    // recursion DFS using preorder
+    // O(n) visits every node once
+    // O(n) inorderMap space
+    int preorderIndex = 0;
+    Map<Integer, Integer> inorderMap = new HashMap<Integer, Integer>();
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        preOrder = preorder;
-        preOrderIndex = 0;
         
-        
-        int index = 0;
-        for (int e : inorder) {
-            map.put(e, index++);
+        // setup hashmap (inorder element, index) globally so helper function can access root in O(1) time
+        for (int i = 0; i < inorder.length; i++) {
+            inorderMap.put(inorder[i], i);
         }
         
-        return build(0, preorder.length - 1);
+        // start recursion in helper
+        return recur(preorder, 0, preorder.length - 1);
     }
-    
-    private TreeNode build(int left, int right) {
+                     
+    private TreeNode recur(int[] preorder, int left, int right) {
+        // base case
         if (left > right) return null;
         
-        int root = preOrder[preOrderIndex];
-        int rootIndex = map.get(root);
-        preOrderIndex++;
+        // create node for current root
+        int preorderVal = preorder[preorderIndex++];
+        TreeNode root = new TreeNode(preorderVal);
         
-        TreeNode rootNode = new TreeNode(root);
-        rootNode.left = build(left, rootIndex - 1);
-        rootNode.right = build(rootIndex + 1, right);
-        
-        return rootNode;
+        // create left and right children using recursion
+        root.left = recur(preorder, left, inorderMap.get(preorderVal) - 1);
+        root.right = recur(preorder, inorderMap.get(preorderVal) + 1, right);
+        // return root
+        return root;
     }
 }
