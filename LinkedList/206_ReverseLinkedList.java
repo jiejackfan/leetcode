@@ -16,7 +16,8 @@ class Solution {
     // Iterative
     // O(n) size of linked list
     // O(1) no extra storage space
-    // Go through the list from head to tail, switching next pointers one by one. Saves the previous node so current node can have a target for its next pointer.
+    // Go through the list from head to tail, switching next pointers one by one. Saves the previous node 
+    // so current node can have a target for its next pointer.
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode curr = head;
@@ -49,7 +50,8 @@ class Solution {
         // recur and keep track of the last node, which is also the new head
         ListNode finalNode = reverseList(head.next);
 
-        // change next pointers
+        // change next node's next pointer to point to current head (which is one before the next)
+        // change current head's next (pointing to the left) as null so we go up one recursion and set it.
         head.next.next = head;
         head.next = null;
 
