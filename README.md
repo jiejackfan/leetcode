@@ -40,8 +40,8 @@ My personal repository to practice on Leetcode.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Design/155_MinStack.java) | 04/23/2021 |
 
 # Dynamic Programming
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
 | 70* | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
@@ -50,6 +50,7 @@ My personal repository to practice on Leetcode.
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
 | 300* | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./DynamicProgramming/300_LongestIncreasingSubsequence.java) | 06/27/2021 |
 | 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
+| 1143* | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./DynamicProgramming/1143_LongestCommonSubsequence.java) | 07/11/2021 | Medium |
 
 # Graph
 | NUM | TITLE | Solution | Date Visited | Difficulty |
