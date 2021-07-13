@@ -47,9 +47,10 @@ My personal repository to practice on Leetcode.
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
 | 139* | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./DynamicProgramming/139_WordBreak.java) | 06/27/2021 |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/198_HouseRobber.java) | 04/15/2021 |
+| 198* | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/198_HouseRobber.java) | 04/15/2021 07/13/2021 | Medium |
 | 300* | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./DynamicProgramming/300_LongestIncreasingSubsequence.java) | 06/27/2021 |
 | 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
+| 377* | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./DynamicProgramming/377_CombinationSum4.java) | 07/12/2021 | Medium |
 | 1143* | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./DynamicProgramming/1143_LongestCommonSubsequence.java) | 07/11/2021 | Medium |
 
 # Graph
