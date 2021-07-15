@@ -67,7 +67,8 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 56* | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Interval/56_MergeIntervals.java) | 03/28/2021 |
-| 57* | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/57_InsertInterval.java) | 06/29/2021 | Medium
+| 57* | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/57_InsertInterval.java) | 06/29/2021 | Medium |
+| 252* | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Solution](./Interval/252_MeetingRooms.java) | 07/15/2021 | Easy |
 
 
 # LinkedList
