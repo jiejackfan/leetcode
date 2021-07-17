@@ -42,6 +42,8 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 55* | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./DynamicProgramming/55_JumpGame.java) | 07/17/2021 | Medium |
+| 62* | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./DynamicProgramming/62_UniquePath.java) | 07/17/2021 | Medium |
 | 70* | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
