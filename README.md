@@ -59,7 +59,8 @@ My personal repository to practice on Leetcode.
 # Graph
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium
+| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium |
+| 207* | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/207_CourseSchedule.java) | 07/18/2021 | Medium |
 
 # Heap
 | NUM | TITLE | Solution | Date Visited | Difficulty |
