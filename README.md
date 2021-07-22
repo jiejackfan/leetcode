@@ -33,6 +33,13 @@ My personal repository to practice on Leetcode.
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./Array/977_SquaresOfASortedArray.java) | 05/28/2021 | Easy |
 
+
+# Binary Search
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./Design/162_FindPeakElement.java) | 07/22/2021 | Medium |
+
+
 # Design
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
