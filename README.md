@@ -42,12 +42,15 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 55* | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./DynamicProgramming/55_JumpGame.java) | 07/17/2021 | Medium |
+| 62* | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./DynamicProgramming/62_UniquePath.java) | 07/17/2021 | Medium |
 | 70* | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./DynamicProgramming/91_DecodeWays.java) | 03/30/2021 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](./DynamicProgramming/118_PascalsTriangle.java) | 05/16/2021 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./DynamicProgramming/121_BestTimeToBuyAndSellStock.java) | 04/10/2021 |
 | 139* | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./DynamicProgramming/139_WordBreak.java) | 06/27/2021 |
 | 198* | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./DynamicProgramming/198_HouseRobber.java) | 04/15/2021 07/13/2021 | Medium |
+| 213* | [House Robber 2](https://leetcode.com/problems/house-robber-ii/) | [Solution](./DynamicProgramming/213_HouseRobber2.java) | 07/16/2021 | Medium |
 | 300* | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./DynamicProgramming/300_LongestIncreasingSubsequence.java) | 06/27/2021 |
 | 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
 | 377* | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./DynamicProgramming/377_CombinationSum4.java) | 07/12/2021 | Medium |
@@ -56,7 +59,8 @@ My personal repository to practice on Leetcode.
 # Graph
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium
+| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium |
+| 207* | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/207_CourseSchedule.java) | 07/18/2021 | Medium |
 
 # Heap / Priority Queue
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -68,8 +72,9 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 56* | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Interval/56_MergeIntervals.java) | 03/28/2021 |
-| 57* | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/57_InsertInterval.java) | 06/29/2021 | Medium
-
+| 57* | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/57_InsertInterval.java) | 06/29/2021 | Medium |
+| 252* | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Solution](./Interval/252_MeetingRooms.java) | 07/15/2021 | Easy |
+| 253* | [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](./Interval/253_MeetingRooms2.java) | 07/15/2021 | Medium |
 
 # LinkedList
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -88,6 +93,7 @@ My personal repository to practice on Leetcode.
 # Math & Binary
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
 | 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
