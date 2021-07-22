@@ -58,10 +58,11 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium
 
-# Heap
+# Heap / Priority Queue
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 |
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium | 
 
 # Interval
 | NUM | TITLE | Solution | Date Visited | Difficulty |
