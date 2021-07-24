@@ -74,7 +74,8 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 |
-| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium | 
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./Heap/1710_MaximumUnitsOnATruck.java) | 07/23/2021 | Medium |  
 
 # Interval
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -107,6 +108,7 @@ My personal repository to practice on Leetcode.
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
+| 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./Math/1041_RobotBoundedInCircle.java) | 07/23/2021 | Medium |
 
 # Matrix
 | NUM | TITLE | Solution | Date Visited | Difficulty |
