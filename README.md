@@ -32,6 +32,7 @@ My personal repository to practice on Leetcode.
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./Array/977_SquaresOfASortedArray.java) | 05/28/2021 | Easy |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Solution](./Array/1465_MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.java) | 07/24/2021 | Medium |
 
 
 # Binary Search
@@ -106,6 +107,7 @@ My personal repository to practice on Leetcode.
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
 | 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
+| 273* | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./Math/273_IntegerToEnglishWords.java) | 07/24/2021 | Hard |
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
@@ -131,7 +133,7 @@ My personal repository to practice on Leetcode.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 |
 
 # String
-| NUM | TITLE | Solution | Date Visited | Difficulty
+| NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./Array/6_ZigZagConversion.java) | 06/20/2021 | Medium |
@@ -147,6 +149,8 @@ My personal repository to practice on Leetcode.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
+| 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 | Easy |
+
 
 # Tree
 | NUM | TITLE | Solution | Date Visited | Difficulty |
