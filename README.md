@@ -33,6 +33,13 @@ My personal repository to practice on Leetcode.
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./Array/977_SquaresOfASortedArray.java) | 05/28/2021 | Easy |
 
+
+# Binary Search
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./Design/162_FindPeakElement.java) | 07/22/2021 | Medium |
+
+
 # Design
 | NUM | TITLE | Solution | Date Visited | 
 |---|---|---|---|
@@ -63,10 +70,11 @@ My personal repository to practice on Leetcode.
 | 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium |
 | 207* | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/207_CourseSchedule.java) | 07/18/2021 | Medium |
 
-# Heap
+# Heap / Priority Queue
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 |
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium | 
 
 # Interval
 | NUM | TITLE | Solution | Date Visited | Difficulty |
