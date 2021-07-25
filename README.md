@@ -176,7 +176,7 @@ My personal repository to practice on Leetcode.
 | 297* | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./Tree/297_SerializeAndDeserializeBinaryTree.java) | 06/30/2021 | Hard | 
 | 572* | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Tree/572_SubtreeOfAnotherTree.java) | 07/01/2021 | Easy | 
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 |
-
+| 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [Solution](./Tree/1120_MaximumAverageSubtree.java) | 07/25/2021 |
 
 
 
