@@ -5,6 +5,8 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
 | 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Array/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
+| 4 | [Median of Two Sorted Arrays
+](https://leetcode.com/problems/two-sum/) | [Solution](./Array/4_MedianOfTwoSortedArrays.java) | 07/30/2021 | Hard |
 | 11* | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
 | 15* | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./Array/16_3SumClosest.java) | 06/15/2021 | Medium |
@@ -43,10 +45,11 @@ My personal repository to practice on Leetcode.
 
 
 # Design
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./Design/146_LRUCache.java) | 03/27/2021 |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Design/155_MinStack.java) | 04/23/2021 |
+| 208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./Design/208_ImplementTrie.java) | 07/29/2021 | Medium |
 
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -107,6 +110,7 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
 | 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
 | 273* | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./Math/273_IntegerToEnglishWords.java) | 07/24/2021 | Hard |
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
@@ -114,11 +118,13 @@ My personal repository to practice on Leetcode.
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./Math/1041_RobotBoundedInCircle.java) | 07/23/2021 | Medium |
 
+
 # Matrix
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 54* | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Matrix/54_SpiralMatrix.java) | 06/17/2021 | Medium |
 | 73* | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Matrix/73_SetMatrixZeros.java) | 06/29/2021 | Medium |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](./Matrix/212_WordSearch2.java) | 07/29/2021 | Hard |
 
 
 # Sorting and Searching
@@ -151,6 +157,7 @@ My personal repository to practice on Leetcode.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 | Easy |
+| 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./String/953_VerifyingAnAlienDictionary.java) | 07/28/2021 | Medium |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./String/1249_MinRemoveToMakeValidParentheses.java) | 07/27/2021 | Medium |
 
 
@@ -180,6 +187,7 @@ My personal repository to practice on Leetcode.
 | 572* | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Tree/572_SubtreeOfAnotherTree.java) | 07/01/2021 | Easy | 
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [Solution](./Tree/1120_MaximumAverageSubtree.java) | 07/25/2021 |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./Tree/1448_CountGoodNodesInBinaryTree.java) | 07/28/2021 |
 
 
 
