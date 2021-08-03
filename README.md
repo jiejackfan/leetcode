@@ -108,6 +108,7 @@ My personal repository to practice on Leetcode.
 # Math & Binary
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./Math/67_AddBinary.java) | 08/02/2021 | Easy |
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
@@ -116,6 +117,7 @@ My personal repository to practice on Leetcode.
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](./Math/415_AddStrings.java) | 08/02/2021 | Easy |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./Math/1041_RobotBoundedInCircle.java) | 07/23/2021 | Medium |
 
 
