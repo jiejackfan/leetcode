@@ -128,7 +128,9 @@ My personal repository to practice on Leetcode.
 | 54* | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Matrix/54_SpiralMatrix.java) | 06/17/2021 | Medium |
 | 73* | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Matrix/73_SetMatrixZeros.java) | 06/29/2021 | Medium |
 | 79* | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Matrix/79_WordSearch.java) | 08/04/2021 | Medium |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Matrix/200_NumberOfIslands.java) | 08/05/2021 | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](./Matrix/212_WordSearch2.java) | 07/29/2021 | Hard |
+| 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Solution](./Matrix/286_WallsAndGates.java) | 08/05/2021 | Medium |
 
 
 # Sorting and Searching
