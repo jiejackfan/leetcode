@@ -23,6 +23,7 @@ My personal repository to practice on Leetcode.
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](./Array/134_GasStation.java) | 08/04/2021 | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
 | 152* | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
 | 153* | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Array/153_FindMinimumInRotatedSortedArray.java) | 06/24/2021 | Medium |
@@ -138,9 +139,10 @@ My personal repository to practice on Leetcode.
 
 
 # Sliding Window
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./SlidingWindow/239_SlidingWindowMaximum.java) | 08/04/2021 | Hard |
 
 # String
 | NUM | TITLE | Solution | Date Visited | Difficulty |
