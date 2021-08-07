@@ -1,5 +1,38 @@
 // 8/5/2021
 class Solution {
+    // Approach 1: DFS
+    // O(n * m) go through all cells
+    // O(n * m) recursion stack
+    // for every cell, if we encounter a '1' then we do a DFS to set all of its nodes to '0'
+    public int numIslands(char[][] grid) {
+        int nr = grid.length;
+        if (nr == 0 || grid == null) return 0;
+        int nc = grid[0].length;
+        
+        int numIsland = 0;
+        
+        for (int r = 0; r < nr; r++) {
+            for (int c = 0; c < nc; c++) {
+                if (grid[r][c] == '1') {
+                    ++numIsland;
+                    dfs(grid, r, c);
+                }
+            }
+        }
+        return numIsland;
+    }
+    
+    // dfs recursion to set current cell to '0' and also neighboring cells
+    protected void dfs(char[][] grid, int r, int c) {
+        if (r < 0 || r >= grid.length || c < 0 || c >= grid[0].length || grid[r][c] == '0') 
+            return;
+        
+        grid[r][c] = '0';
+        dfs(grid, r + 1, c);
+        dfs(grid, r - 1, c);
+        dfs(grid, r, c + 1);
+        dfs(grid, r, c - 1);
+    }
     
     // Approach 2: BFS
     // Search every node, if a node is '1' then we trigger a BFS search

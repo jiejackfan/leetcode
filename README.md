@@ -73,7 +73,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](./Graph/127_WordLadder.java) | 07/19/2021 | Medium |
-| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 | Medium |
+| 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 08/06/2021 | Medium |
 | 207* | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/207_CourseSchedule.java) | 07/18/2021 | Medium |
 | 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Graph/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
 
@@ -128,7 +128,7 @@ My personal repository to practice on Leetcode.
 | 54* | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Matrix/54_SpiralMatrix.java) | 06/17/2021 | Medium |
 | 73* | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Matrix/73_SetMatrixZeros.java) | 06/29/2021 | Medium |
 | 79* | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Matrix/79_WordSearch.java) | 08/04/2021 | Medium |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Matrix/200_NumberOfIslands.java) | 08/05/2021 | Medium |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Matrix/200_NumberOfIslands.java) | 08/06/2021 | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](./Matrix/212_WordSearch2.java) | 07/29/2021 | Hard |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Solution](./Matrix/286_WallsAndGates.java) | 08/05/2021 | Medium |
 
@@ -150,14 +150,15 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./String/5_LongestPalindromicSubstring.java) | 03/25/2021 |
-| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./Array/6_ZigZagConversion.java) | 06/20/2021 | Medium |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./String/6_ZigZagConversion.java) | 06/20/2021 | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](./String/7_ReverseInteger.java) | 04/20/2021 |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./String/8_StringToIntegerAtoi.java) | 04/21/2021 |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution](./String/12_IntegerToRoman.java) | 05/10/2021 |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](./String/13_RomanToInteger.java) | 05/08/2021 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./String/14_LongestCommonPrefix.java) | 04/23/2021 |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./Array/17_LetterCombinationsOfAPhoneNumber.java) | 06/21/2021 | Medium |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./Array/22_GenerateParentheses.java) | 06/19/2021 | Medium |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./String/17_LetterCombinationsOfAPhoneNumber.java) | 06/21/2021 | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./String/20_ValidParentheses.java) | 08/05/2021 | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./String/22_GenerateParentheses.java) | 06/19/2021 | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
