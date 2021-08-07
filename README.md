@@ -164,6 +164,7 @@ My personal repository to practice on Leetcode.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 | Easy |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./String/953_VerifyingAnAlienDictionary.java) | 07/28/2021 | Medium |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./String/1249_MinRemoveToMakeValidParentheses.java) | 07/27/2021 | Medium |
