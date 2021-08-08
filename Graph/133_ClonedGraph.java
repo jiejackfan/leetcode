@@ -21,28 +21,30 @@ class Node {
 */
 
 class Solution {
-    // DFS
-    // Visit each node, create a clone add the clone to visited hashmap and visit its neighbors
-    // O(N + M) node + edges
-    // O(N) visited hashmap space
-    Map<Node, Node> visited = new HashMap<Node, Node>();
+    // Approach 1: DFS
+    // O(nodes + edges)
+    // O(nodes) hashmap
+    // Keep a hashmap of visited, recur on every node and check if a node is already visited and has a copy
+    // if not we create a copy and clone its neighbors as well
+    private HashMap<Node, Node> visited = new HashMap<>();
     public Node cloneGraph(Node node) {
-        // recursive base case
-        if (node == null) return node;
+        if (node == null)
+            return node;
         
-        // if node is visited, no need to clone
-        if (visited.containsKey(node)) return visited.get(node);
+        // if visited before, we return the cloned node
+        if (visited.containsKey(node)) 
+            return visited.get(node);
         
-        // create a empty clone
-        Node cloneNode = new Node(node.val, new ArrayList());
-        visited.put(node, cloneNode);
+        // else if not visited before, we create a new node, put it into visited hash map and clone its neighbors
+        Node newNode = new Node(node.val);
+        visited.put(node, newNode);
         
-        // add the neighbor clones using recursion
+        // for each neighbor of this node, we clone them for the newNode
         for (Node neighbor: node.neighbors) {
-            cloneNode.neighbors.add(cloneGraph(neighbor));
+            newNode.neighbors.add(cloneGraph(neighbor));
         }
         
-        return cloneNode;
+        return newNode;
     }
     
     // BFS
