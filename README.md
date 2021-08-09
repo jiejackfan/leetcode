@@ -23,6 +23,7 @@ My personal repository to practice on Leetcode.
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Array/128_LongestConsecutiveSequence.java) | 08/09/2021 | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](./Array/134_GasStation.java) | 08/04/2021 | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
 | 152* | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
