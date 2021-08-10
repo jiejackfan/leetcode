@@ -182,6 +182,7 @@ My personal repository to practice on Leetcode.
 | 100* | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./Tree/100_SameTree.java) | 06/29/2021 | Easy | 
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 |
 | 102* | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Tree/102_BinaryTreeLevelOrderTraversal.java) | 04/2/2021 04/26/2021 6/29/2021 | Medium |
+| 103* | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./Tree/103_BinaryTreeZigzagLevelOrderTraversal.java) | 08/10/2021 | Medium |
 | 104* | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 04/26/2021 |
 | 105* | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Tree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 04/28/2021 07/01/2021 | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 |
