@@ -114,6 +114,7 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](./Math/50_Pow(x,n).java) | 08/08/2021 | Medium |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./Math/67_AddBinary.java) | 08/02/2021 | Easy |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./Math/166_FractionToRecurringDecimal.java) | 08/12/2021 | Medium |
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
