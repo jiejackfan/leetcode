@@ -101,6 +101,7 @@ My personal repository to practice on Leetcode.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 |
 | 21* | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LinkedList/21_MergeTwoSortedLists.java) | 04/08/2021 7/10/2021 | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./LinkedList/83_RemoveDuplicatesFromSortedList.java) | 08/14/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LinkedList/138_CopyListWithRandomPointer.java) | 08/07/2021 | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./LinkedList/143_ReorderList.java) | 7/10/2021 | Medium |
@@ -114,6 +115,7 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](./Math/50_Pow(x,n).java) | 08/08/2021 | Medium |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./Math/67_AddBinary.java) | 08/02/2021 | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](./Math/69_Sqrt(x).java) | 08/14/2021 | Easy |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./Math/166_FractionToRecurringDecimal.java) | 08/12/2021 | Medium |
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
@@ -165,6 +167,7 @@ My personal repository to practice on Leetcode.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./String/20_ValidParentheses.java) | 08/05/2021 | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./String/22_GenerateParentheses.java) | 06/19/2021 | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./String/58_LengthOfLastWord.java) | 08/14/2021 | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 |
@@ -189,6 +192,7 @@ My personal repository to practice on Leetcode.
 | 105* | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Tree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 04/28/2021 07/01/2021 | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Tree/108_ConvertSortedArrayToBinarySearchTree.java) | 04/3/2021 |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Tree/110_BalancedBinaryTree.java) | 08/15/2021 | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./Tree/112_PathSum.java) | 04/26/2021 |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Tree/116_PopulatingNextRightPointersInEachNode.java) | 04/29/2021 |
 | 124* | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Tree/124_BinaryTreeMaximumPathSum.java) | 06/29/2021 | Hard | 
