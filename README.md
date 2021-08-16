@@ -193,6 +193,7 @@ My personal repository to practice on Leetcode.
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Tree/108_ConvertSortedArrayToBinarySearchTree.java) | 04/3/2021 |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Tree/110_BalancedBinaryTree.java) | 08/15/2021 | Easy |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./Tree/111_MinimumDepthOfBinaryTree.java) | 08/15/2021 | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./Tree/112_PathSum.java) | 04/26/2021 |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Tree/116_PopulatingNextRightPointersInEachNode.java) | 04/29/2021 |
 | 124* | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Tree/124_BinaryTreeMaximumPathSum.java) | 06/29/2021 | Hard | 
