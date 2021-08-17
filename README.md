@@ -46,6 +46,10 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./Design/162_FindPeakElement.java) | 07/22/2021 | Medium |
 
+# Design
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./Database/175_CombineTwoTables.sql) | 08/16/2021 | Easy |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -105,6 +109,7 @@ My personal repository to practice on Leetcode.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LinkedList/138_CopyListWithRandomPointer.java) | 08/07/2021 | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./LinkedList/143_ReorderList.java) | 7/10/2021 | Medium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./LinkedList/160_IntersectionOfTwoLinkedList.java) | 08/16/2021 | Easy |
 | 206* | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 05/11/2021 7/7/2021|
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
@@ -140,18 +145,25 @@ My personal repository to practice on Leetcode.
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Solution](./Matrix/286_WallsAndGates.java) | 08/05/2021 | Medium |
 
 
-# Sorting and Searching
-| NUM | TITLE | Solution | Date Visited | 
-|---|---|---|---|
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./Sorting_and_Searching/88_MergeSortedArray.java) | 04/09/2021 |
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./Sorting_and_Searching/278_FirstBadVersion.java) | 04/09/2021 |
-
+# Simulation
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution](./Simulation/157_ReadNCharactersGivenRead4.java) | 08/16/2021 |
 
 # Sliding Window
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./SlidingWindow/239_SlidingWindowMaximum.java) | 08/04/2021 | Hard |
+
+
+# Sorting and Searching
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./SortingAndSearching/88_MergeSortedArray.java) | 04/09/2021 |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./SortingAndSearching/278_FirstBadVersion.java) | 04/09/2021 |
+
+
 
 # String
 | NUM | TITLE | Solution | Date Visited | Difficulty |
