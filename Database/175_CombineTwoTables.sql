@@ -1,3 +1,4 @@
+# 8/16/2021
 # Write your MySQL query statement below
 
 # join 2 tables
