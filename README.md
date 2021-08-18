@@ -47,10 +47,11 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./Design/162_FindPeakElement.java) | 07/22/2021 | Medium |
 
-# Design
+# Database
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./Database/175_CombineTwoTables.sql) | 08/16/2021 | Easy |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](./Database/176_SecondHighestSalary.sql) | 08/17/2021 | Easy |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | Difficulty |
