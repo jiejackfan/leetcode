@@ -52,6 +52,7 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./Database/175_CombineTwoTables.sql) | 08/16/2021 | Easy |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](./Database/176_SecondHighestSalary.sql) | 08/17/2021 | Easy |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](./Database/181_EmployeesEarningMoreThanTheirManagers.sql) | 08/19/2021 | Easy |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -126,6 +127,7 @@ My personal repository to practice on Leetcode.
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](./Math/69_Sqrt(x).java) | 08/14/2021 | Easy |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./Math/166_FractionToRecurringDecimal.java) | 08/12/2021 | Medium |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./Math/171_ExcelSheetColumnNumber.java) | 08/18/2021 | Easy |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./Math/172_FactorialTrailingZeros.java) | 08/19/2021 | Easy |
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
