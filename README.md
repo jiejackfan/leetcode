@@ -53,6 +53,8 @@ My personal repository to practice on Leetcode.
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [Solution](./Database/175_CombineTwoTables.sql) | 08/16/2021 | Easy |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [Solution](./Database/176_SecondHighestSalary.sql) | 08/17/2021 | Easy |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Solution](./Database/181_EmployeesEarningMoreThanTheirManagers.sql) | 08/19/2021 | Easy |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](./Database/182_DeuplicateEmails.sql) | 08/20/2021 | Easy |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./Database/183_CustomerWhoNeverOrder.sql) | 08/20/2021 | Easy |
 
 # Design
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -126,6 +128,7 @@ My personal repository to practice on Leetcode.
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./Math/67_AddBinary.java) | 08/02/2021 | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](./Math/69_Sqrt(x).java) | 08/14/2021 | Easy |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./Math/166_FractionToRecurringDecimal.java) | 08/12/2021 | Medium |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./Math/168_ExcelSheetColumnTitle.java) | 08/20/2021 | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./Math/171_ExcelSheetColumnNumber.java) | 08/18/2021 | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./Math/172_FactorialTrailingZeros.java) | 08/19/2021 | Easy |
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
