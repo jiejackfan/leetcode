@@ -17,6 +17,7 @@ My personal repository to practice on Leetcode.
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./Array/39_CombinationSum.java) | 06/18/2021 | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./Array/41_FirstMissingPositive.java) | 06/22/2021 | Hard |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./Array/45_JumpGame2.java) | 08/21/2021 | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Array/46_Permutations.java) | 06/22/2021 | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
@@ -111,6 +112,7 @@ My personal repository to practice on Leetcode.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 |
 | 21* | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LinkedList/21_MergeTwoSortedLists.java) | 04/08/2021 7/10/2021 | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./LinkedList/61_RotateList.java) | 08/21/2021 | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./LinkedList/83_RemoveDuplicatesFromSortedList.java) | 08/14/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LinkedList/138_CopyListWithRandomPointer.java) | 08/07/2021 | Medium |
@@ -133,6 +135,7 @@ My personal repository to practice on Leetcode.
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](./Math/172_FactorialTrailingZeros.java) | 08/19/2021 | Easy |
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](./Math/202_HappyNumber.java) | 08/21/2021 | Easy |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
 | 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
 | 273* | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./Math/273_IntegerToEnglishWords.java) | 07/24/2021 | Hard |
