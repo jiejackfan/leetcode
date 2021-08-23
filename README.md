@@ -136,9 +136,11 @@ My personal repository to practice on Leetcode.
 | 190* | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Math/190_ReverseBits.java) | 07/18/2021 | Easy |
 | 191* | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Math/191_NumberOf1Bits.java) | 06/26/2021 | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](./Math/202_HappyNumber.java) | 08/21/2021 | Easy |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Solution](./Math/204_CountPrimes.java) | 08/22/2021 | Easy |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
 | 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
 | 273* | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./Math/273_IntegerToEnglishWords.java) | 07/24/2021 | Hard |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Solution](./Math/326_PowerOfThree.java) | 07/24/2021 | Easy |
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
