@@ -66,6 +66,7 @@ My personal repository to practice on Leetcode.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Design/155_MinStack.java) | 04/23/2021 |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Solution](./Design/170_TwoSum3.java) | 08/18/2021 | Easy |
 | 208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./Design/208_ImplementTrie.java) | 07/29/2021 | Medium |
+| 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Solution](./Design/348_DesignTicTacToe.java) | 08/25/2021 | Medium |
 
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | Difficulty |
