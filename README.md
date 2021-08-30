@@ -167,6 +167,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution](./Simulation/157_ReadNCharactersGivenRead4.java) | 08/16/2021 |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](./Simulation/289_GameOfLife.java) | 08/30/2021 | Medium |
 
 # Sliding Window
 | NUM | TITLE | Solution | Date Visited | Difficulty |
