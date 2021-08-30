@@ -66,6 +66,7 @@ My personal repository to practice on Leetcode.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Design/155_MinStack.java) | 04/23/2021 |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Solution](./Design/170_TwoSum3.java) | 08/18/2021 | Easy |
 | 208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./Design/208_ImplementTrie.java) | 07/29/2021 | Medium |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./Design/341_FlattenNestedListIterator.java) | 08/29/2021 | Medium |
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Solution](./Design/348_DesignTicTacToe.java) | 08/25/2021 | Medium |
 
 # Dynamic Programming
@@ -173,6 +174,8 @@ My personal repository to practice on Leetcode.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Solution](./SlidingWindow/159_LongestSubstringWithAtMostTwoDistinctCharacters.java) | 08/27/2021 | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./SlidingWindow/239_SlidingWindowMaximum.java) | 08/04/2021 | Hard |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Solution](./SlidingWindow/340_LongestSubstringWithAtMostKDistinctCharacters.java) | 08/29/2021 | Medium |
+
 
 
 # Sorting and Searching
