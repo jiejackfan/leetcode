@@ -203,6 +203,7 @@ My personal repository to practice on Leetcode.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./String/20_ValidParentheses.java) | 08/05/2021 | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./String/22_GenerateParentheses.java) | 06/19/2021 | Medium |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](./String/38_CountAndSay.java) | 09/02/2021 | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./String/58_LengthOfLastWord.java) | 08/14/2021 | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
