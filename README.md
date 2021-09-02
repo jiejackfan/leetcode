@@ -37,6 +37,7 @@ My personal repository to practice on Leetcode.
 | 238* | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Array/238_ProductOfArrayExceptSelf.java) | 06/23/2021 | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./Array/283_MoveZeroes.java) | 04/19/2021 |
 | 287 | [Move Zeroes](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./Array/287_FindTheDuplicateNumber.java) | 08/24/2021 | Medium |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./Array/300_LongestIncreasingSubsequence.java) | 09/01/2021 | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Array/347_TopKFrequentElements.java) | 08/23/2021 | Medium |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
@@ -93,6 +94,7 @@ My personal repository to practice on Leetcode.
 | 133* | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/133_ClonedGraph.java) | 06/28/2021 08/06/2021 | Medium |
 | 207* | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/207_CourseSchedule.java) | 07/18/2021 | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./Graph/210_CourseSchedule.java) | 08/31/2021 | Medium |
+| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Solution](./Graph/277_FindTheCelebrity.java) | 08/31/2021 | Medium |
 | 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Graph/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
 
 # Heap / Priority Queue
