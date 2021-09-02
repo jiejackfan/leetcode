@@ -5,8 +5,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
 | 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Array/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
-| 4 | [Median of Two Sorted Arrays
-](https://leetcode.com/problems/two-sum/) | [Solution](./Array/4_MedianOfTwoSortedArrays.java) | 07/30/2021 | Hard |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/two-sum/) | [Solution](./Array/4_MedianOfTwoSortedArrays.java) | 07/30/2021 | Hard |
 | 11* | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
 | 15* | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution](./Array/16_3SumClosest.java) | 06/15/2021 | Medium |
