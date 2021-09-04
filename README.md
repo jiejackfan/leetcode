@@ -22,6 +22,7 @@ My personal repository to practice on Leetcode.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./Array/75_SortColors.java) | 09/03/2021 | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Array/78_Subsets.java) | 09/03/2021 | Medium |
 | 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Array/128_LongestConsecutiveSequence.java) | 08/09/2021 | Medium |
@@ -186,6 +187,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./SortingAndSearching/88_MergeSortedArray.java) | 04/09/2021 |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Solution](./SortingAndSearching/179_LargestNumber.java) | 09/03/2021 | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./SortingAndSearching/278_FirstBadVersion.java) | 04/09/2021 |
 
 
