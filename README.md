@@ -41,6 +41,7 @@ My personal repository to practice on Leetcode.
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./Array/300_LongestIncreasingSubsequence.java) | 09/01/2021 | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Array/347_TopKFrequentElements.java) | 08/23/2021 | Medium |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
+| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./Array/977_SquaresOfASortedArray.java) | 05/28/2021 | Easy |
@@ -165,7 +166,7 @@ My personal repository to practice on Leetcode.
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Matrix/200_NumberOfIslands.java) | 08/06/2021 | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](./Matrix/212_WordSearch2.java) | 07/29/2021 | Hard |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Solution](./Matrix/286_WallsAndGates.java) | 08/05/2021 | Medium |
-
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./Matrix/378_KthSmallestElementInASortedMatrix.java) | 09/04/2021 | Medium |
 
 # Simulation
 | NUM | TITLE | Solution | Date Visited | Difficulty |
