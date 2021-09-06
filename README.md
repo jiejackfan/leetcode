@@ -41,6 +41,7 @@ My personal repository to practice on Leetcode.
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./Array/300_LongestIncreasingSubsequence.java) | 09/01/2021 | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Array/347_TopKFrequentElements.java) | 08/23/2021 | Medium |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./Array/384_ShuffleAnArray.java) | 09/05/2021 | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
@@ -138,6 +139,7 @@ My personal repository to practice on Leetcode.
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](./Math/50_Pow(x,n).java) | 08/08/2021 | Medium |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](./Math/67_AddBinary.java) | 08/02/2021 | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](./Math/69_Sqrt(x).java) | 08/14/2021 | Easy |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./Math/150_EvaluateReversePolishNotation.java) | 09/05/2021 | Medium |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./Math/166_FractionToRecurringDecimal.java) | 08/12/2021 | Medium |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./Math/168_ExcelSheetColumnTitle.java) | 08/20/2021 | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution](./Math/171_ExcelSheetColumnNumber.java) | 08/18/2021 | Easy |
