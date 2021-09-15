@@ -15,20 +15,23 @@
             return n;
         }
         
-        // Binary Search
-        // O(ln n) O(1)
+        // Approach 1: Binary Search
+        // Adopt the general binary search frame, if bad version, search the left part
+        // if good version, search the right part
+        // O(logn) O(1)
         public int firstBadVersion(int n) {
-            int left = 1;
-            int right = n;
-            
-            while (left < right) {
+            int left = 1, right = n;
+            int ans = -1;
+            while (left <= right) {
                 int mid = left + (right - left) / 2;
                 if (isBadVersion(mid)) {
-                    right = mid;
-                } else {
+                    ans = mid;
+                    right = mid - 1;
+                }
+                else {
                     left = mid + 1;
                 }
             }
-            return left;
+            return ans;
         }
     }

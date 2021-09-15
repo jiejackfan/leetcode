@@ -45,14 +45,16 @@ My personal repository to practice on Leetcode.
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./Array/977_SquaresOfASortedArray.java) | 05/28/2021 | Easy |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Solution](./Array/1465_MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.java) | 07/24/2021 | Medium |
 
 
 # Binary Search
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./Design/162_FindPeakElement.java) | 07/22/2021 | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./BinarySearch/35_SearchInsertPosition.java) | 09/15/2021 | Medium |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](./BinarySearch/162_FindPeakElement.java) | 07/22/2021 | Medium |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./BinarySearch/278_FirstBadVersion.java) | 04/09/2021 09/15/2021 | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](./BinarySearch/704_BinarySearch.java) | 09/15/2021 | Easy |
 
 # Database
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -193,7 +195,7 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./SortingAndSearching/88_MergeSortedArray.java) | 04/09/2021 |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Solution](./SortingAndSearching/179_LargestNumber.java) | 09/03/2021 | Medium |
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](./SortingAndSearching/278_FirstBadVersion.java) | 04/09/2021 |
+
 
 
 
@@ -258,4 +260,7 @@ My personal repository to practice on Leetcode.
 
 
 
-
+# Two Pointers
+| NUM | TITLE | Solution | Date Visited | Difficulty |
+|---|---|---|---|---|
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021| Easy |
