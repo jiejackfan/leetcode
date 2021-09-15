@@ -69,4 +69,27 @@ class Solution {
             end--;
         }
     }
+
+
+    // 9/15 two pointer practice
+        // Approach 1: Reverse
+    // Reverse all numbers, reverse first k numbers, and reverse last n-k numbers to acheive the answer
+    // O(n) O(1)
+    public void rotate(int[] nums, int k) {
+        k %= nums.length;
+        reverse(nums, 0, nums.length - 1);
+        reverse(nums, 0, k - 1);
+        reverse(nums, k, nums.length - 1);
+    }
+    
+    // reverse the numbers within the given range, switch left and right while incrementing/decrementing
+    public void reverse(int[] nums, int left, int right) {
+        while (left < right) {
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+            left++;
+            right--;
+        }
+    }
 }

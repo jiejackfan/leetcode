@@ -4,7 +4,7 @@ My personal repository to practice on Leetcode.
 # Array
 | NUM | TITLE | Solution | Date Visited | Difficulty
 |---|---|---|---|---|
-| 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Array/1_TwoSum.java) | 03/20/2021 04/18/2021| Easy |
+| 1* | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Array/1_TwoSum.java) | 03/20/2021 04/18/2021 09/15/2021 | Easy |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/two-sum/) | [Solution](./Array/4_MedianOfTwoSortedArrays.java) | 07/30/2021 | Hard |
 | 11* | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Array/11_ContainerWithMostWater.java) | 05/31/2021 | Medium |
 | 15* | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Array/15_3Sum.java) | 06/14/2021 | Medium |
@@ -33,7 +33,6 @@ My personal repository to practice on Leetcode.
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](./Array/163_MissingRanges.java) | 08/17/2021 | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./Array/167_TwoSum2.java) | 05/31/2021 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./Array/169_MajorityElement.java) | 08/11/2021 | Easy |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./Array/189_RotateArray.java) | 04/16/2021 |
 | 217* | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
 | 238* | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Array/238_ProductOfArrayExceptSelf.java) | 06/23/2021 | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./Array/283_MoveZeroes.java) | 04/19/2021 |
@@ -263,4 +262,5 @@ My personal repository to practice on Leetcode.
 # Two Pointers
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021| Easy |
