@@ -31,7 +31,6 @@ My personal repository to practice on Leetcode.
 | 152* | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
 | 153* | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Array/153_FindMinimumInRotatedSortedArray.java) | 06/24/2021 | Medium |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](./Array/163_MissingRanges.java) | 08/17/2021 | Easy |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./Array/167_TwoSum2.java) | 05/31/2021 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./Array/169_MajorityElement.java) | 08/11/2021 | Easy |
 | 217* | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
 | 238* | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Array/238_ProductOfArrayExceptSelf.java) | 06/23/2021 | Medium |
@@ -215,7 +214,7 @@ My personal repository to practice on Leetcode.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./String/58_LengthOfLastWord.java) | 08/14/2021 | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 09/17/2021 | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 | Easy |
@@ -261,6 +260,7 @@ My personal repository to practice on Leetcode.
 # Two Pointers
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./TwoPointer/167_TwoSum2.java) | 05/31/2021 09/17/2021 | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./TwoPointer/283_MoveZeroes.java) | 04/19/2021 09/16/2021 | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021| Easy |
