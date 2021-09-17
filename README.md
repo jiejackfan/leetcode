@@ -35,7 +35,6 @@ My personal repository to practice on Leetcode.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](./Array/169_MajorityElement.java) | 08/11/2021 | Easy |
 | 217* | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Array/217_ContainsDuplicate.java) | 04/17/2021 |
 | 238* | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Array/238_ProductOfArrayExceptSelf.java) | 06/23/2021 | Medium |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./Array/283_MoveZeroes.java) | 04/19/2021 |
 | 287 | [Move Zeroes](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./Array/287_FindTheDuplicateNumber.java) | 08/24/2021 | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./Array/300_LongestIncreasingSubsequence.java) | 09/01/2021 | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Array/347_TopKFrequentElements.java) | 08/23/2021 | Medium |
@@ -263,4 +262,5 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./TwoPointer/283_MoveZeroes.java) | 04/19/2021 09/16/2021 | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021| Easy |
