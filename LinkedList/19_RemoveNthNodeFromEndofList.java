@@ -36,25 +36,27 @@ class Solution {
         return dummy.next;
     }
     
-    // One Pass:
-    // Two pointers, one to find the end of list one to find the node to remove. 
-    // They differ by a set length of n.
+    // **Approach 2: Two Pointers 
+    // Maintain 2 pointers, one goes thru all element, the other one has a delay of n+1 steps
+    // when the faster one reaches the end, the slower one is the element to remove
+    // Use dummy node for LinkedList to avoid corner/edge cases
+    // O(n) O)(1)
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode dummy = new ListNode();
+        ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode first = dummy;
-        ListNode second = dummy;
+        ListNode slow = dummy, fast = dummy;
         
-        for (int i = 0; i < n+1; i++) {
-            first = first.next;
+        for (int i = 0; i <= n; i++) {
+            fast = fast.next;
         }
         
-        while (first != null) {
-            first = first.next;
-            second = second.next;
+        while (fast != null) {
+            fast = fast.next;
+            slow = slow.next;
         }
         
-        second.next = second.next.next;
+        // remove current slow element
+        slow.next = slow.next.next;
         
         return dummy.next;
     }

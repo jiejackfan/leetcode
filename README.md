@@ -120,7 +120,7 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./LinkedList/2_AddTwoNumbers.java) | 03/21/2021 |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 09/19/2021 | Medium |
 | 21* | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LinkedList/21_MergeTwoSortedLists.java) | 04/08/2021 7/10/2021 | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./LinkedList/61_RotateList.java) | 08/21/2021 | Medium |
@@ -260,6 +260,7 @@ My personal repository to practice on Leetcode.
 # Two Pointers
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 09/19/2021 | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./TwoPointer/167_TwoSum2.java) | 05/31/2021 09/17/2021 | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./TwoPointer/283_MoveZeroes.java) | 04/19/2021 09/16/2021 | Easy |
