@@ -132,7 +132,7 @@ My personal repository to practice on Leetcode.
 | 206* | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 05/11/2021 7/7/2021|
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./LinkedList/876_MiddleOfLinkedList.java) | 07/05/2021 | Easy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./LinkedList/876_MiddleOfLinkedList.java) | 07/05/2021 09/19/2021 | Easy |
 
 # Math & Binary
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -260,9 +260,8 @@ My personal repository to practice on Leetcode.
 # Two Pointers
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 09/19/2021 | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./TwoPointer/167_TwoSum2.java) | 05/31/2021 09/17/2021 | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./TwoPointer/283_MoveZeroes.java) | 04/19/2021 09/16/2021 | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./TwoPointer/557_ReverseWordsInAString3.java) | 09/18/2021 | Easy |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021| Easy |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021 | Easy |

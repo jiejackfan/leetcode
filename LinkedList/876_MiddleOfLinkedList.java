@@ -33,16 +33,25 @@ class Solution {
 //         return head2;
 //     }
     
-    // Fast & slow pointer
-    // have two pointers move together, 1 at twice the speed of the other one.
+    // Approach 1: Two pointers
+    // Maintain 2 pointers, fast runs twice as fast as the slow
+    // when the fast reaches null, we know the slow is at the middle position
+    // Using dummy node here requires a corner case if statement
+    // O(n) O(1)
     public ListNode middleNode(ListNode head) {
-        ListNode p1 = head, p2 = head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode slow = dummy, fast = dummy;
         
-        while (p2 != null && p2.next != null) {
-            p1 = p1.next;
-            p2 = p2.next.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
         
-        return p1;
+        // edge case
+        if (fast != null) 
+            slow = slow.next;
+        
+        return slow;
     }
 }
