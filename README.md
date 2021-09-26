@@ -180,7 +180,7 @@ My personal repository to practice on Leetcode.
 # Sliding Window
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 9/25/2021 | Medium |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Solution](./SlidingWindow/159_LongestSubstringWithAtMostTwoDistinctCharacters.java) | 08/27/2021 | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./SlidingWindow/239_SlidingWindowMaximum.java) | 08/04/2021 | Hard |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Solution](./SlidingWindow/340_LongestSubstringWithAtMostKDistinctCharacters.java) | 08/29/2021 | Medium |

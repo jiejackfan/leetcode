@@ -1,4 +1,5 @@
 // March 23, 2021
+// 9/25/2021
 class Solution {
     
     // brute force O(n^3) O(n)
@@ -30,32 +31,36 @@ class Solution {
     }
     
     // Sliding window: O(2n) O(n)
-    // Last approach goes through all avaliable. We can only check the ones we dint check. Hence the sliding window
+    // Last approach goes through all avaliable. We can only check the ones we didnt check. Hence the sliding window
     // technique.
     // This approach has 2 pointers. Right pointer is to enlarge the window. First enlarge until encounter a duplicate 
     // character and use left to slowly shrink the set until the window has no repeating characters.
     public int lengthOfLongestSubstring(String s) {
-        int[] charArr = new int[128];
+        int[] chars = new int[128];
         
-        int left = 0;
-        int right = 0;
+        int left = 0, right = 0;
         
-        int res = 0;
-        while(right < s.length()) {
-            char r = s.charAt(right);
-            charArr[r]++;
-            
-            while (charArr[r] > 1) {
+        int ans = 0;
+        // while we didn't reach the end yet
+        while (right < s.length()) {
+            char cur = s.charAt(right);
+            chars[cur]++;
+            // if this current right pointer char appeared before,
+            // remove the left pointer until the right pointer only has 1 appearance
+            while (chars[cur] > 1) {
                 char l = s.charAt(left);
-                charArr[l]--;
+                chars[l]--;
                 left++;
             }
             
-            res = Math.max(res, right-left+1);
-            
+            // update max length
+            ans = Math.max(ans, right - left + 1);
+            // increase right counter
             right++;
+            
         }
-        return res;
+        
+        return ans;
     }
     
     // Sliding window #2: O(n) O(n)
