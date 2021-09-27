@@ -71,6 +71,9 @@ My personal repository to practice on Leetcode.
 | 208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./Design/208_ImplementTrie.java) | 07/29/2021 | Medium |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./Design/341_FlattenNestedListIterator.java) | 08/29/2021 | Medium |
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Solution](./Design/348_DesignTicTacToe.java) | 08/25/2021 | Medium |
+| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./Design/359_LoggerRateLimiter.java) | 09/26/2021 | Easy |
+| 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Design/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
+
 
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -98,7 +101,6 @@ My personal repository to practice on Leetcode.
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./Graph/210_CourseSchedule.java) | 08/31/2021 | Medium |
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Solution](./Graph/269_AlienDictionary.java) | 09/08/2021 | Hard |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Solution](./Graph/277_FindTheCelebrity.java) | 08/31/2021 | Medium |
-| 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Graph/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
 
 # Heap / Priority Queue
 | NUM | TITLE | Solution | Date Visited | Difficulty |
