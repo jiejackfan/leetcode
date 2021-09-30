@@ -10,8 +10,8 @@ public class RemoveB {
         // dp2 stores optimal result from right to left
         int[] dp2 = new int[s.length()];
 
-        dp1[0] = 0; dp2[s.length() - 1] = 0;
-
+        dp1[0] = s.charAt(0) == 'b'? 1 : 0;
+        dp2[s.length()-1] =  s.charAt(s.length() - 1) == 'b' ? 1 : 0;  
         // loop 1 to fill in dp1, the cost of removing from the left of each character
         for (int i = 1; i < s.length(); i++) {
             if(s.charAt(i) == 'a')
@@ -38,10 +38,12 @@ public class RemoveB {
     }
 
     public static void main(String[] args) {
-        //String input = "aabaa";
-         String input = "abbaaba";
+        // //String input = "aabaa";
+        //  String input = "abbaaba";
         // String input = "bbb";
         // String input = "abbbaabaabba";
+        
+        String input = "bbbbabbabaaaabaabbaaaaaabbbbaaabababbabaabbbbbb";
 
         System.out.println(removeB(input));
     }   
