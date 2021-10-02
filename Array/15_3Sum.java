@@ -1,4 +1,5 @@
 // 6/14/2021
+// 9/30/2021
 // Only 2 pointer solution, 2 more solution not implemented
 
 class Solution {
@@ -13,6 +14,7 @@ class Solution {
         //sort the array first
         Arrays.sort(nums);
         
+        // early stopping: if first number is positive, the final sum can't be 0
         for (int i = 0; i <= nums.length - 3 && nums[i] <= 0; i++) {
             // if the value is the same as the one before, skip it
             // an example is [0, 0, 0, 0], the solution should be [0,0,0] 
@@ -40,7 +42,10 @@ class Solution {
             } 
             else {
                 ans.add(Arrays.asList(nums[i], nums[left++], nums[right--]));
-                while (left < right && nums[left] == nums[left - 1]) left++;
+
+                // skip similar combo by finding the next left thats different than current left
+                while (left < right && nums[left] == nums[left - 1]) 
+                    left++;
             }
         }
     }

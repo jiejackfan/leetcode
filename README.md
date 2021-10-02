@@ -78,6 +78,7 @@ My personal repository to practice on Leetcode.
 # Dynamic Programming
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Solution](./DynamicProgramming/10_RegularExpressionMatching.java) | 10/01/2021 | Hard |
 | 55* | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./DynamicProgramming/55_JumpGame.java) | 07/17/2021 | Medium |
 | 62* | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./DynamicProgramming/62_UniquePath.java) | 07/17/2021 | Medium |
 | 70* | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./DynamicProgramming/70_ClimbingStairs.java) | 04/10/2021 |
@@ -263,6 +264,7 @@ My personal repository to practice on Leetcode.
 # Two Pointers
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Solution](./TwoPointer/18_4Sum.java) | 10/02/2021 | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./TwoPointer/167_TwoSum2.java) | 05/31/2021 09/17/2021 | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./TwoPointer/283_MoveZeroes.java) | 04/19/2021 09/16/2021 | Easy |
