@@ -163,6 +163,7 @@ My personal repository to practice on Leetcode.
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](./Math/415_AddStrings.java) | 08/02/2021 | Easy |
+| 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./Math/829_ConsecutiveNumbersSum.java) | 10/07/2021 | Hard |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./Math/1041_RobotBoundedInCircle.java) | 07/23/2021 | Medium |
 
 
