@@ -261,6 +261,7 @@ My personal repository to practice on Leetcode.
 | 572* | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Tree/572_SubtreeOfAnotherTree.java) | 07/01/2021 | Easy | 
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](./Tree/617_MergeTwoBinaryTrees.java) | 10/51/2021 | Easy | 
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 |
+| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](./Tree/863_AllNodesDistanceKInBinaryTree.java) | 10/07/2021 | Medium |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [Solution](./Tree/1120_MaximumAverageSubtree.java) | 07/25/2021 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./Tree/1448_CountGoodNodesInBinaryTree.java) | 07/28/2021 |
 
