@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Tiktok",
         "Array",
-        "Tiktok"
+        "TwitterOA"
     ]
 }
