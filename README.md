@@ -76,6 +76,7 @@ My personal repository to practice on Leetcode.
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Solution](./Design/348_DesignTicTacToe.java) | 08/25/2021 | Medium |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./Design/359_LoggerRateLimiter.java) | 09/26/2021 | Easy |
 | 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Design/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Solution](./Design/1603_DesignParkingSystem.java) | 10/08/2021 | Easy |
 
 
 # Dynamic Programming
@@ -130,6 +131,7 @@ My personal repository to practice on Leetcode.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LinkedList/19_RemoveNthNodeFromEndofList.java) | 04/05/2021 09/19/2021 | Medium |
 | 21* | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LinkedList/21_MergeTwoSortedLists.java) | 04/08/2021 7/10/2021 | Easy |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LinkedList/24_SwapNodesInPairs.java) | 05/10/2021 |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./LinkedList/25_ReverseNodesInKGroup.java) | 10/14/2021 | Hard |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./LinkedList/61_RotateList.java) | 08/21/2021 | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./LinkedList/83_RemoveDuplicatesFromSortedList.java) | 08/14/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
@@ -277,4 +279,5 @@ My personal repository to practice on Leetcode.
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](./TwoPointer/189_RotateArray.java) | 04/16/2021 09/15/2021 | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](./TwoPointer/283_MoveZeroes.java) | 04/19/2021 09/16/2021 | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./TwoPointer/557_ReverseWordsInAString3.java) | 09/18/2021 | Easy |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./TwoPointer/696_CountBinarySubstrings.java) | 10/08/2021 | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./TwoPointer/977_SquaresOfASortedArray.java) | 05/28/2021 09/15/2021 | Easy |
