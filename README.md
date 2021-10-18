@@ -43,6 +43,7 @@ My personal repository to practice on Leetcode.
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](./Array/739_DailyTemperatures.java) | 10/17/2021 | Medium |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution](./Array/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 10/07/2021 | Medium |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Solution](./Array/1465_MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.java) | 07/24/2021 | Medium |
 | 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Solution](./Array/1654_MinimumJumpsToReachHome.java) | 10/03/2021 | Medium |
@@ -179,6 +180,7 @@ My personal repository to practice on Leetcode.
 | 79* | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Matrix/79_WordSearch.java) | 08/04/2021 | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Matrix/200_NumberOfIslands.java) | 08/06/2021 | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](./Matrix/212_WordSearch2.java) | 07/29/2021 | Hard |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Solution](./Matrix/221_MaximalSquare.java) | 10/17/2021 | Medium |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Solution](./Matrix/286_WallsAndGates.java) | 08/05/2021 | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./Matrix/378_KthSmallestElementInASortedMatrix.java) | 09/04/2021 | Medium |
 
