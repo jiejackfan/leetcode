@@ -258,6 +258,7 @@ My personal repository to practice on Leetcode.
 | 117 | [Populating Next Right Pointers in Each Node 2](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./Tree/117_PopulatingNextRightPointersInEachNode2.java) | 04/30/2021 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_BinaryTreePreorderTraversal.java) | 04/25/2021 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Tree/145_BinaryTreePostorderTraversal.java) | 04/25/2021 |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./Tree/199_BinaryTreeRightSideView.java) | 10/18/2021 | Medium |
 | 226* | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./Tree/226_InvertBinaryTree.java) | 06/29/2021 | Easy | 
 | 230* | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./Tree/230_KthSmallestElementInABST.java) | 07/03/2021 | Medium | 
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./Tree/236_LowestCommonAncestorOfABinaryTree.java) | 08/23/2021 | Medium | 
