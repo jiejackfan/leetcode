@@ -69,7 +69,7 @@ My personal repository to practice on Leetcode.
 # Design
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./Design/146_LRUCache.java) | 03/27/2021 |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./Design/146_LRUCache.java) | 03/27/2021 10/20/2021 | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](./Design/155_MinStack.java) | 04/23/2021 |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Solution](./Design/170_TwoSum3.java) | 08/18/2021 | Easy |
 | 208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./Design/208_ImplementTrie.java) | 07/29/2021 | Medium |
@@ -77,6 +77,7 @@ My personal repository to practice on Leetcode.
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [Solution](./Design/348_DesignTicTacToe.java) | 08/25/2021 | Medium |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./Design/359_LoggerRateLimiter.java) | 09/26/2021 | Easy |
 | 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Design/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
+| 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](./Design/460_LFUCache.java) | 10/20/2021 | Hard |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Solution](./Design/1603_DesignParkingSystem.java) | 10/08/2021 | Easy |
 
 
