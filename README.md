@@ -96,6 +96,8 @@ My personal repository to practice on Leetcode.
 | 300* | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./DynamicProgramming/300_LongestIncreasingSubsequence.java) | 06/27/2021 |
 | 322* | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./DynamicProgramming/322_CoinChange.java) | 06/26/2021 |
 | 377* | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./DynamicProgramming/377_CombinationSum4.java) | 07/12/2021 | Medium |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./DynamicProgramming/416_PartitionEqualSubsetSum.java) | 10/19/2021 | Medium |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](./DynamicProgramming/494_TargetSum.java) | 10/19/2021 | Medium |
 | 1143* | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./DynamicProgramming/1143_LongestCommonSubsequence.java) | 07/11/2021 | Medium |
 
 # Graph
