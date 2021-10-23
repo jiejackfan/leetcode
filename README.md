@@ -165,7 +165,7 @@ My personal repository to practice on Leetcode.
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Solution](./Math/204_CountPrimes.java) | 08/22/2021 | Easy |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution](./Math/227_BasicCalculator2.java) | 07/28/2021 | Medium |
 | 268* | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Math/268_MissingNumber.java) | 06/26/2021 | Easy |
-| 273* | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./Math/273_IntegerToEnglishWords.java) | 07/24/2021 | Hard |
+| 273* | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./Math/273_IntegerToEnglishWords.java) | 07/24/2021 10/22/2021 | Hard |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Solution](./Math/326_PowerOfThree.java) | 07/24/2021 | Easy |
 | 338* | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Math/338_CountingBits.java) | 06/26/2021 | Easy |
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
@@ -199,7 +199,7 @@ My personal repository to practice on Leetcode.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./SlidingWindow/3_LongestSubstringWithoutRepeatingCharacters.java) | 03/23/2021 9/25/2021 | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./SlidingWindow/76_MinimumWindowSubstring.java) | 09/30/2021 | Hard |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Solution](./SlidingWindow/159_LongestSubstringWithAtMostTwoDistinctCharacters.java) | 08/27/2021 | Medium |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./SlidingWindow/239_SlidingWindowMaximum.java) | 08/04/2021 | Hard |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./SlidingWindow/239_SlidingWindowMaximum.java) | 08/04/2021 10/22/2021 | Hard |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Solution](./SlidingWindow/340_LongestSubstringWithAtMostKDistinctCharacters.java) | 08/29/2021 | Medium |
 
 

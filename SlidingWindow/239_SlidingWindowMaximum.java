@@ -1,3 +1,5 @@
+//10/22/2021
+
 class Solution {
     
     // Approach 1: brute force
@@ -33,12 +35,11 @@ class Solution {
     // remove the element not in window (the first element) if exceeds max size
     // not always sliding window size, can be 1 element if it is max
     public void clean_deque(int i, int k) {
-        // remove index of element not in sliding window
-        // only when the window exceeds max size
+        // remove if deque exceeds window size
         if (!deq.isEmpty() && deq.getFirst() == i - k) 
             deq.removeFirst();
         
-        // remove all elements smaller than current elemnts
+        // remove elements from the back if the element is smaller than i
         while (!deq.isEmpty() && nums[i] > nums[deq.getLast()]) 
             deq.removeLast();
     }
@@ -48,7 +49,7 @@ class Solution {
         if (n * k == 0) return new int[0];
         if (k == 1) return nums;
         
-        // init deque and out
+        // init the deque for the initial sliding window position
         this.nums = nums;
         int max_idx = 0;
         for (int i = 0; i < k; i++) {
@@ -63,8 +64,7 @@ class Solution {
         int[] output = new int[n - k + 1];
         output[0] = nums[max_idx];
         
-        // build output 1 by 1. Add 1 element to sliding window each time
-        // this time we are sure all elements at front will be max
+         // loop through the rest of nums to find max for each sliding window
         for (int i = k; i < n; i++) {
             clean_deque(i, k);
             deq.addLast(i);
