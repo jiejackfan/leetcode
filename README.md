@@ -114,8 +114,8 @@ My personal repository to practice on Leetcode.
 # Heap / Priority Queue
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 |
-| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./Heap/295_FindMedianFromDataStream.java) | 09/07/2021 |
+| 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 10/23/2021 | Hard |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./Heap/295_FindMedianFromDataStream.java) | 09/07/2021 10/22/2021 | Hard |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./Heap/973_KClosestPointsToOrigin.java) | 10/06/2021 | Medium |
 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./Heap/1710_MaximumUnitsOnATruck.java) | 07/23/2021 | Medium |  
@@ -171,7 +171,7 @@ My personal repository to practice on Leetcode.
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](./Math/415_AddStrings.java) | 08/02/2021 | Easy |
-| 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./Math/829_ConsecutiveNumbersSum.java) | 10/07/2021 | Hard |
+| 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./Math/829_ConsecutiveNumbersSum.java) | 10/07/2021 10/22/2021 | Hard |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./Math/1041_RobotBoundedInCircle.java) | 07/23/2021 | Medium |
 
 

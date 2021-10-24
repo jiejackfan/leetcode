@@ -38,16 +38,25 @@ class Solution {
     // O(nlogk) where k=# of linked lists, n=value/node , O(1)
     // Merge the array of lists 2 by 2. And repeat until only there is only 1 list
     public ListNode mergeKLists2(ListNode[] lists) {
-        if (lists.length == 0) {
+        if (list == null && lists.length == 0) {
             return null;
         }
         
-        int interval = 1;
-        while (interval < lists.length) {
-            for (int i = 0; i+interval < lists.length; i=i+interval*2) {
-                lists[i] = merge2Lists(lists[i], lists[i+interval]);
+        int n = lists.length;
+        
+        // merge 2 lists at a time
+        while (n != 1) {
+            // merge everything when even, merge everything except last when odd
+            for (int i = 0; i < n/2; i++) {
+                lists[i] = merge(lists[i*2], lists[i*2 + 1]);
             }
-            interval *= 2;
+            
+            // move the last when odd into the middle of list
+            if (n%2 == 1) 
+                lists[n/2] = lists[n-1];
+        
+            // manually erase second half of list because it is no longer useful
+            n = (n+1) /2;
         }
                
         return lists[0];
@@ -57,6 +66,8 @@ class Solution {
     public ListNode merge2Lists(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
+
+        // fill new list node up until one listnode is empty
         while(l1 != null && l2 != null) {
             if (l1.val <= l2.val) {
                 curr.next = l1;

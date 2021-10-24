@@ -1,3 +1,6 @@
+// 10/22/2021
+
+
 class Solution {
     // Approach 1: Math Fomula
     // N = (x+1) + (x+2) + .... + (x+k)
