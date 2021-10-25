@@ -20,7 +20,7 @@ My personal repository to practice on Leetcode.
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Array/46_Permutations.java) | 06/22/2021 | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
-| 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 | Easy |
+| 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 10/24/2021 | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./Array/75_SortColors.java) | 09/03/2021 | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Array/78_Subsets.java) | 09/03/2021 | Medium |
@@ -140,10 +140,10 @@ My personal repository to practice on Leetcode.
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](./LinkedList/61_RotateList.java) | 08/21/2021 | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./LinkedList/83_RemoveDuplicatesFromSortedList.java) | 08/14/2021 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LinkedList/141_LinkedListCycle.java) | 04/08/2021 |
-| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LinkedList/138_CopyListWithRandomPointer.java) | 08/07/2021 | Medium |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LinkedList/138_CopyListWithRandomPointer.java) | 08/07/2021 10/24/2021 | Medium |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./LinkedList/143_ReorderList.java) | 7/10/2021 | Medium |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./LinkedList/160_IntersectionOfTwoLinkedList.java) | 08/16/2021 | Easy |
-| 206* | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 05/11/2021 7/7/2021|
+| 206* | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LinkedList/206_ReverseLinkedList.java) | 04/06/2021 05/11/2021 7/7/2021 10/24/2021 | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LinkedList/234_PalindromeLinkedList.java) | 04/08/2021 |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./LinkedList/237_DeleteNodeInALinkedList.java) | 04/06/2021 |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./LinkedList/876_MiddleOfLinkedList.java) | 07/05/2021 09/19/2021 | Easy |
@@ -244,9 +244,9 @@ My personal repository to practice on Leetcode.
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Tree/94_BinaryTreeInorderTraversal.java) | 04/25/2021 |
-| 98* | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Tree/98_ValidateBinarySearchTree.java) | 04/02/2021 07/02/2021 | Medium |
+| 98* | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Tree/98_ValidateBinarySearchTree.java) | 04/02/2021 07/02/2021 10/24/2021 | Medium |
 | 100* | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./Tree/100_SameTree.java) | 06/29/2021 | Easy | 
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 10/24/2021 | Easy |
 | 102* | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Tree/102_BinaryTreeLevelOrderTraversal.java) | 04/2/2021 04/26/2021 6/29/2021 | Medium |
 | 103* | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./Tree/103_BinaryTreeZigzagLevelOrderTraversal.java) | 08/10/2021 | Medium |
 | 104* | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 04/26/2021 |
