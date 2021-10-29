@@ -229,11 +229,12 @@ My personal repository to practice on Leetcode.
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](./String/28_ImplementStrStr.java) | 04/23/2021 |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](./String/38_CountAndSay.java) | 09/02/2021 | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution](./String/58_LengthOfLastWord.java) | 08/14/2021 | Easy |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Solution](./Array/68_TextJustification.java) | 10/28/2021 | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 09/17/2021 | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
-| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 10/28/2021 | Medium |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 10/24/2021 | Easy |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./String/953_VerifyingAnAlienDictionary.java) | 07/28/2021 | Medium |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](./String/1249_MinRemoveToMakeValidParentheses.java) | 07/27/2021 | Medium |
