@@ -78,6 +78,7 @@ My personal repository to practice on Leetcode.
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./Design/359_LoggerRateLimiter.java) | 09/26/2021 | Easy |
 | 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Design/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](./Design/460_LFUCache.java) | 10/20/2021 | Hard |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./Design/981_TimeBasedKeyValueStore.java) | 11/01/2021 | Medium |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Solution](./Design/1603_DesignParkingSystem.java) | 10/08/2021 | Easy |
 
 
