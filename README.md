@@ -41,6 +41,7 @@ My personal repository to practice on Leetcode.
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./Array/384_ShuffleAnArray.java) | 09/05/2021 | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
+| 465 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | [Solution](./Array/465_OptimalAccountBalancing.java) | 11/03/2021 | Hard |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Solution](./Array/735_AsteroidCollision.java) | 11/03/2021 | Medium |
