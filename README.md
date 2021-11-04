@@ -41,8 +41,10 @@ My personal repository to practice on Leetcode.
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./Array/384_ShuffleAnArray.java) | 09/05/2021 | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
+| 465 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | [Solution](./Array/465_OptimalAccountBalancing.java) | 11/03/2021 | Hard |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./Array/485_MaxConsecutiveOnes.java) | 05/27/2021 |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Solution](./Array/735_AsteroidCollision.java) | 11/03/2021 | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](./Array/739_DailyTemperatures.java) | 10/17/2021 | Medium |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution](./Array/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 10/07/2021 | Medium |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Solution](./Array/1465_MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.java) | 07/24/2021 | Medium |
@@ -78,6 +80,7 @@ My personal repository to practice on Leetcode.
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](./Design/359_LoggerRateLimiter.java) | 09/26/2021 11/4/2021 | Easy |
 | 380* | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./Design/380_InsertDeleteGetRandomO(1).java) | 07/24/2021 | Medium |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Solution](./Design/460_LFUCache.java) | 10/20/2021 | Hard |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./Design/981_TimeBasedKeyValueStore.java) | 11/01/2021 | Medium |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Solution](./Design/1603_DesignParkingSystem.java) | 10/08/2021 | Easy |
 
 
@@ -99,6 +102,7 @@ My personal repository to practice on Leetcode.
 | 377* | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./DynamicProgramming/377_CombinationSum4.java) | 07/12/2021 | Medium |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./DynamicProgramming/416_PartitionEqualSubsetSum.java) | 10/19/2021 | Medium |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](./DynamicProgramming/494_TargetSum.java) | 10/19/2021 | Medium |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Solution](./DynamicProgramming/1048_LongestStringChain.java) | 11/03/2021 | Medium |
 | 1143* | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./DynamicProgramming/1143_LongestCommonSubsequence.java) | 07/11/2021 | Medium |
 
 # Graph
@@ -116,6 +120,7 @@ My personal repository to practice on Leetcode.
 |---|---|---|---|---|
 | 23* | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_MergeKSortedLists.java) | 03/27/2021 10/23/2021 | Hard |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./Heap/295_FindMedianFromDataStream.java) | 09/07/2021 10/22/2021 | Hard |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Solution](./Heap/871_MinimumNumberOfRefuelingStops.java) | 11/02/2021 | Hard |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./Heap/973_KClosestPointsToOrigin.java) | 10/06/2021 | Medium |
 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./Heap/1710_MaximumUnitsOnATruck.java) | 07/23/2021 | Medium |  
@@ -233,7 +238,7 @@ My personal repository to practice on Leetcode.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 09/17/2021 | Easy |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 | Easy |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 10/28/2021 | Medium |
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [Solution](./String/843_GuessTheWord.java) | 11/04/2021 | Hard |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 10/24/2021 | Easy |
