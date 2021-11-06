@@ -13,7 +13,7 @@ My personal repository to practice on Leetcode.
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](./Array/31_NextPermutation.java) | 06/09/2021 | Medium |
 | 33* | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Array/33_SearchInRotatedSortedArray.java) | 03/31/2021 | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](./Array/34_FindFirstAndLastPositionOfElementInSortedArray.java) | 06/17/2021 | Medium |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Array/36_ValidSudoku.java) | 04/19/2021 | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./Array/39_CombinationSum.java) | 06/18/2021 | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./Array/41_FirstMissingPositive.java) | 06/22/2021 | Hard |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./Array/45_JumpGame2.java) | 08/21/2021 | Medium |
