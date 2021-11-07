@@ -18,7 +18,7 @@ My personal repository to practice on Leetcode.
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](./Array/41_FirstMissingPositive.java) | 06/22/2021 | Hard |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./Array/45_JumpGame2.java) | 08/21/2021 | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Array/46_Permutations.java) | 06/22/2021 | Medium |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 10/24/2021 | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
