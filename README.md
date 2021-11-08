@@ -21,7 +21,7 @@ My personal repository to practice on Leetcode.
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Array/48_RotateImage.java) | 04/19/2021 | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Array/49_GroupAnagrams.java) | 06/14/2021 | Medium |
 | 53* | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./Array/53_MaximumSubarray.java) | 04/11/2021 10/24/2021 | Easy |
-| 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 |
+| 66 | [Plus One](https://leetcode.com/problems/merge-intervals/) | [Solution](./Array/66_PlusOne.java) | 04/18/2021 | Easy |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./Array/75_SortColors.java) | 09/03/2021 | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Array/78_Subsets.java) | 09/03/2021 | Medium |
 | 84 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Array/78_Subsets.java) | 09/03/2021 | Medium |
