@@ -25,7 +25,7 @@ My personal repository to practice on Leetcode.
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](./Array/75_SortColors.java) | 09/03/2021 | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Array/78_Subsets.java) | 09/03/2021 | Medium |
 | 84 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Array/78_Subsets.java) | 09/03/2021 | Medium |
-| 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | 
+| 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Array/128_LongestConsecutiveSequence.java) | 08/09/2021 | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](./Array/134_GasStation.java) | 08/04/2021 | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
