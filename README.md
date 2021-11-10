@@ -28,7 +28,7 @@ My personal repository to practice on Leetcode.
 | 122* | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./Array/122_BestTimeToBuyAndSellStock2.java) | 04/16/2021 | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Array/128_LongestConsecutiveSequence.java) | 08/09/2021 | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](./Array/134_GasStation.java) | 08/04/2021 | Medium |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./Array/136_SingleNumber.java) | 04/17/2021 | Easy |
 | 152* | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./Array/152_MaximumProductSubarray.java) | 06/23/2021 | Medium |
 | 153* | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Array/153_FindMinimumInRotatedSortedArray.java) | 06/24/2021 | Medium |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](./Array/163_MissingRanges.java) | 08/17/2021 | Easy |
