@@ -38,7 +38,7 @@ My personal repository to practice on Leetcode.
 | 287 | [Move Zeroes](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./Array/287_FindTheDuplicateNumber.java) | 08/24/2021 | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./Array/300_LongestIncreasingSubsequence.java) | 09/01/2021 | Medium |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Array/347_TopKFrequentElements.java) | 08/23/2021 | Medium |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./Array/350_IntersectionOfTwoArrays2.java) | 04/18/2021 | Easy |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./Array/384_ShuffleAnArray.java) | 09/05/2021 | Medium |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Solution](./Array/454_4Sum2.java) | 09/04/2021 | Medium |
 | 465 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | [Solution](./Array/465_OptimalAccountBalancing.java) | 11/03/2021 | Hard |
