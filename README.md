@@ -263,13 +263,13 @@ My personal repository to practice on Leetcode.
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Tree/110_BalancedBinaryTree.java) | 08/15/2021 | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./Tree/111_MinimumDepthOfBinaryTree.java) | 08/15/2021 | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./Tree/112_PathSum.java) | 04/26/2021 |
-| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Tree/116_PopulatingNextRightPointersInEachNode.java) | 04/29/2021 |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Tree/116_PopulatingNextRightPointersInEachNode.java) | 04/29/2021 11/16/2021 | Medium |
 | 124* | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Tree/124_BinaryTreeMaximumPathSum.java) | 06/29/2021 | Hard | 
 | 117 | [Populating Next Right Pointers in Each Node 2](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./Tree/117_PopulatingNextRightPointersInEachNode2.java) | 04/30/2021 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_BinaryTreePreorderTraversal.java) | 04/25/2021 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Tree/145_BinaryTreePostorderTraversal.java) | 04/25/2021 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./Tree/199_BinaryTreeRightSideView.java) | 10/18/2021 | Medium |
-| 226* | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./Tree/226_InvertBinaryTree.java) | 06/29/2021 | Easy | 
+| 226* | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./Tree/226_InvertBinaryTree.java) | 06/29/2021 11/16/2021 | Easy | 
 | 230* | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./Tree/230_KthSmallestElementInABST.java) | 07/03/2021 | Medium | 
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./Tree/236_LowestCommonAncestorOfABinaryTree.java) | 08/23/2021 | Medium | 
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Solution](./Tree/250_CountUnivalueSubtrees.java) | 04/27/2021 |

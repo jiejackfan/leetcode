@@ -78,4 +78,28 @@ class Solution {
         
         return root;
     }
+
+    // approach 3 : labuladong
+    // pre-order traversal with helper function
+    // need helper because we want to connect 2 diff nodes as well
+    public Node connect(Node root) {
+        if (root == null)
+            return null;
+        
+        connect2(root.left, root.right);
+        return root;
+    }
+    
+    public void connect2(Node n1, Node n2) {
+        if (n1 == null || n2 == null)
+            return;
+        
+        // manipulate root
+        n1.next = n2;
+        connect2(n1.right, n2.left);
+
+        // do the same to their children
+        connect2(n1.left, n1.right);
+        connect2(n2.left, n2.right);
+    }
 }
