@@ -250,7 +250,7 @@ My personal repository to practice on Leetcode.
 # Tree
 | NUM | TITLE | Solution | Date Visited | Difficulty |
 |---|---|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Tree/94_BinaryTreeInorderTraversal.java) | 04/25/2021 |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./Tree/94_BinaryTreeInorderTraversal.java) | 04/25/2021 | Easy |
 | 98* | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Tree/98_ValidateBinarySearchTree.java) | 04/02/2021 07/02/2021 10/24/2021 | Medium |
 | 100* | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./Tree/100_SameTree.java) | 06/29/2021 | Easy | 
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](./Tree/101_SymmetricTree.java) | 04/2/2021 10/24/2021 | Easy |
