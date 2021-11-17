@@ -257,15 +257,16 @@ My personal repository to practice on Leetcode.
 | 102* | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Tree/102_BinaryTreeLevelOrderTraversal.java) | 04/2/2021 04/26/2021 6/29/2021 | Medium |
 | 103* | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./Tree/103_BinaryTreeZigzagLevelOrderTraversal.java) | 08/10/2021 | Medium |
 | 104* | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Tree/104_MaximumDepthOfBinaryTree.java) | 04/3/2021 04/26/2021 |
-| 105* | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Tree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 04/28/2021 07/01/2021 | Medium |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 |
+| 105* | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Tree/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 04/28/2021 07/01/2021 11/16/2021 | Medium |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./Tree/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 04/27/2021 11/16/2021 | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Tree/108_ConvertSortedArrayToBinarySearchTree.java) | 04/3/2021 |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Tree/110_BalancedBinaryTree.java) | 08/15/2021 | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./Tree/111_MinimumDepthOfBinaryTree.java) | 08/15/2021 | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](./Tree/112_PathSum.java) | 04/26/2021 |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./Tree/116_PopulatingNextRightPointersInEachNode.java) | 04/29/2021 11/16/2021 | Medium |
-| 124* | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Tree/124_BinaryTreeMaximumPathSum.java) | 06/29/2021 | Hard | 
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./Tree/114_FlattenBinaryTreeToLinkedList.java) | 11/16/2021 | Medium |
 | 117 | [Populating Next Right Pointers in Each Node 2](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution](./Tree/117_PopulatingNextRightPointersInEachNode2.java) | 04/30/2021 |
+| 124* | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./Tree/124_BinaryTreeMaximumPathSum.java) | 06/29/2021 | Hard | 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./Tree/144_BinaryTreePreorderTraversal.java) | 04/25/2021 |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Solution](./Tree/145_BinaryTreePostorderTraversal.java) | 04/25/2021 |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./Tree/199_BinaryTreeRightSideView.java) | 10/18/2021 | Medium |
@@ -277,6 +278,7 @@ My personal repository to practice on Leetcode.
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./Tree/543_DiameterOfBinaryTree.java) | 10/04/2021 | Easy |
 | 572* | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Tree/572_SubtreeOfAnotherTree.java) | 07/01/2021 | Easy | 
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](./Tree/617_MergeTwoBinaryTrees.java) | 10/51/2021 | Easy | 
+| 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./Tree/654_MaximumBinaryTree.java) | 11/16/2021 | Medium |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](./Tree/863_AllNodesDistanceKInBinaryTree.java) | 10/07/2021 | Medium |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [Solution](./Tree/1120_MaximumAverageSubtree.java) | 07/25/2021 |
