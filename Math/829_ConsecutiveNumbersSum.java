@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+// 10/22/2021
+
+
+>>>>>>> 7968cbd755c7041b5c01cfc2d67e0ffaf29dd7fd
 class Solution {
     // Approach 1: Math Fomula
     // N = (x+1) + (x+2) + .... + (x+k)

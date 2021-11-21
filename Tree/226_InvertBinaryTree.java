@@ -16,7 +16,26 @@
  * }
  */
 class Solution {
-    // Approach 1: DFS recursion
+
+    // 11/16
+    // Approach : labuladong
+    public TreeNode invertTree(TreeNode root) {
+        if (root == null)
+            return null;
+        
+        // pre-order traversal, first switch the children this node
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+        
+        // do the same for the children's children
+        invertTree(root.left);
+        invertTree(root.right);
+        
+        return root;
+    }
+
+    // Approach 1: DFS recursion (post order traversal)
     // O(n) every node visited once
     // O(n) worst case recursion stack
     public TreeNode invertTree(TreeNode root) {
@@ -58,4 +77,6 @@ class Solution {
         }
         return root;
     }
+
+
 } 

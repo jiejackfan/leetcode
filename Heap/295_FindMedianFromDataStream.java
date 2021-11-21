@@ -1,4 +1,5 @@
 // 9/7/2021
+// 10/22/2021
 class MedianFinder {
     // Approach 1: Two Heap
     // Keep two halves of the list in one max heap and one min heap. "Small" heap is maxheap and stores
@@ -20,14 +21,15 @@ class MedianFinder {
         even = true;
     }
     
+    // small is max heap (max at front), large is min heap (min at front)
+    // design so that when odd, answer is the first in small.
+    // if odd and we want to add, put in small heap, then move first of small to large
+    // if even and want to add, put in large and move first of large into small
     public void addNum(int num) {
-        // if currently even, we add the new element into large and then add the min of large 
-        // into the small
         if (even) {
             large.offer(num);
             small.offer(large.poll());
         }
-        // if currently odd, we add ned element into small and add the max of small into large
         else {
             small.offer(num);
             large.offer(small.poll());

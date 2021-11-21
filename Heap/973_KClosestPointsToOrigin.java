@@ -17,6 +17,13 @@ class Solution {
                 }
             }    
         );
+<<<<<<< HEAD
+=======
+
+        // pq declaration with lambda
+        // PriorityQueue<int[]> pq = new PriorityQueue<int[]>(
+        //     (a, b) -> (b[0]*b[0] + b[1]*b[1] - a[0]*a[0] - a[1]*a[1]));
+>>>>>>> 7968cbd755c7041b5c01cfc2d67e0ffaf29dd7fd
             
         // add each node into max heap, remove max if exceeds k
         for (int[] point : points) {
@@ -28,8 +35,14 @@ class Solution {
         
         // put result into array and return
         int[][] result = new int[k][2];
+<<<<<<< HEAD
         while (k > 0)
             result[--k] = pq.poll();
+=======
+        for (int i = 0; i < k; i++) {
+            ans[i] = pq.poll();
+        }
+>>>>>>> 7968cbd755c7041b5c01cfc2d67e0ffaf29dd7fd
         
         return result;
     }

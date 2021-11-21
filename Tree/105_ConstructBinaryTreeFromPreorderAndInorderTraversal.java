@@ -16,6 +16,41 @@
  * }
  */
 class Solution {
+
+    // Approach : labuladong
+    // preorder traversal
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+        return build(preorder, 0, preorder.length-1,
+                        inorder, 0, inorder.length-1);
+    }
+    
+    public TreeNode build(int[] preorder, int preStart, int preEnd,
+                            int[] inorder, int inStart, int inEnd) {
+        if (preStart > preEnd) {
+            return null;
+        }
+        
+        // find the root from the first of preorder
+        // also find the root's index in inorder
+        int rootVal = preorder[preStart];
+        int rootIdx = -1;
+        for (int i = inStart; i <= inEnd; i++) {
+            if (rootVal == inorder[i]) {
+                rootIdx = i;
+                break;
+            }
+        }
+        
+        // build root and do the same steps for children
+        TreeNode root = new TreeNode(rootVal);
+        int leftTreeLength = rootIdx - inStart;
+        root.left = build(preorder, preStart+1, preStart+leftTreeLength,
+                            inorder, inStart, rootIdx-1);
+        root.right = build(preorder, preStart+leftTreeLength+1, preEnd,
+                            inorder, rootIdx+1, inEnd);
+        
+        return root;
+    }
     
     // recursion DFS using preorder
     // O(n) visits every node once

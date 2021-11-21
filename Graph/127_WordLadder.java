@@ -58,6 +58,53 @@ class Solution {
         
         return 0;
     }
+
+     // BFS: Use BFS because we are finding the shortest
+     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Queue<String> queue = new LinkedList<>();
+        Set<String> words = new HashSet<>(wordList);
+        int level = 0;
+        // add to the queue and start the bfs
+        words.remove(beginWord);
+        queue.add(beginWord);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            level++;
+            for (int i = 0; i < size; i++) {
+                String curWord = queue.poll();
+                
+                if (curWord.equals(endWord))
+                    return level;
+                
+                // find all the neighbors for this word
+                List<String> neighbors = findNeighbors(curWord);
+                for (String neighbor : neighbors) {    
+                    // if neighbor is in  words list then add to next queue iteration
+                    if (words.contains(neighbor)) {
+                        words.remove(neighbor);
+                        queue.add(neighbor);
+                    }
+                }
+            }
+        }
+        
+        return 0;
+    }
+    
+    public List<String> findNeighbors(String word) {
+        char[] chars = word.toCharArray();
+        List<String> neighbors = new ArrayList<>();
+        for (int i = 0; i < chars.length; i++) {
+            char temp = chars[i];
+            for (char c = 'a'; c <= 'z'; c++) {
+                chars[i] = c;
+                neighbors.add(new String(chars));
+            }
+            chars[i] = temp;
+        }
+        return neighbors;
+    }
     
     // Approach 2: bidirectional bfs
     // will be implemented later
