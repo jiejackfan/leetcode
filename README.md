@@ -106,6 +106,7 @@ My personal repository to practice on Leetcode.
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Solution](./DynamicProgramming/494_TargetSum.java) | 10/19/2021 | Medium |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Solution](./DynamicProgramming/1048_LongestStringChain.java) | 11/03/2021 | Medium |
 | 1143* | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./DynamicProgramming/1143_LongestCommonSubsequence.java) | 07/11/2021 | Medium |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./DynamicProgramming/1423_MaximumPointsYouCanObtainFromCards.java) | 11/21/2021 | Medium |
 
 # Graph
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -178,6 +179,7 @@ My personal repository to practice on Leetcode.
 | 371* | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Math/371_SumOfTwoIntegers.java) | 06/25/2021 | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](./Math/412_FizzBuzz.java) | 04/24/2021 |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](./Math/415_AddStrings.java) | 08/02/2021 | Easy |
+| 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution](./Math/593_ValidSquare.java) | 11/21/2021 | Medium |
 | 829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./Math/829_ConsecutiveNumbersSum.java) | 10/07/2021 10/22/2021 | Hard |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./Math/1041_RobotBoundedInCircle.java) | 07/23/2021 | Medium |
 
