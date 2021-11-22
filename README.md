@@ -243,6 +243,7 @@ My personal repository to practice on Leetcode.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 09/17/2021 | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 | Easy |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 10/28/2021 | Medium |
+| 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](./String/792_NumberOfMatchingSubsequences.java) | 11/21/2021 | Medium |
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [Solution](./String/843_GuessTheWord.java) | 11/04/2021 | Hard |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 10/24/2021 | Easy |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./String/953_VerifyingAnAlienDictionary.java) | 07/28/2021 | Medium |
@@ -280,6 +281,7 @@ My personal repository to practice on Leetcode.
 | 236^ | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./Tree/236_LowestCommonAncestorOfABinaryTree.java) | 08/23/2021 11/18/2021 | Medium | 
 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Solution](./Tree/250_CountUnivalueSubtrees.java) | 04/27/2021 |
 | 297*^ | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./Tree/297_SerializeAndDeserializeBinaryTree.java) | 06/30/2021 11/17/2021 | Hard |
+| 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [Solution](./Tree/366_FindLeavesOfBinaryTree.java) | 11/21/2021 | Medium |
 | 450^ | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](./Tree/450_DeleteNodeInABST.java) | 11/17/2021 | Medium |
 | 538^ | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./Tree/538_ConvertBSTToGreaterTree.java) | 11/17/2021 | Medium | 
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./Tree/543_DiameterOfBinaryTree.java) | 10/04/2021 | Easy |
