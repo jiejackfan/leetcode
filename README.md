@@ -127,7 +127,10 @@ My personal repository to practice on Leetcode.
 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Solution](./Heap/871_MinimumNumberOfRefuelingStops.java) | 11/02/2021 | Hard |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./Heap/973_KClosestPointsToOrigin.java) | 10/06/2021 | Medium |
 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](./Heap/1167_MinimumCostToConnectSticks.java) | 07/21/2021 | Medium |
-| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./Heap/1710_MaximumUnitsOnATruck.java) | 07/23/2021 | Medium |  
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./Heap/1710_MaximumUnitsOnATruck.java) | 07/23/2021 | Medium | 
+| 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [Solution](./Heap/1834_SingleThreadedCPU.java) | 11/22/2021 | Medium |  
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [Solution](./Heap/1882_ProcessTasksUsingServers.java) | 11/22/2021 | Medium | 
+
 
 # Interval
 | NUM | TITLE | Solution | Date Visited | Difficulty |
@@ -243,8 +246,10 @@ My personal repository to practice on Leetcode.
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Solution](./Array/68_TextJustification.java) | 10/28/2021 | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./String/125_ValidPalindrome.java) | 04/20/2021 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./String/242_ValidAnagram.java) | 04/20/2021 |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./String/299_BullsAndCows.java) | 11/22/2021 | Medium |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](./String/344_ReverseString.java) | 04/19/2021 05/10/2021 09/17/2021 | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 | Easy |
+| 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./String/388_LongestAbsoluteFilePath.java) | 11/22/2021 | Medium |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 10/28/2021 | Medium |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](./String/792_NumberOfMatchingSubsequences.java) | 11/21/2021 | Medium |
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [Solution](./String/843_GuessTheWord.java) | 11/04/2021 | Hard |
@@ -291,6 +296,7 @@ My personal repository to practice on Leetcode.
 | 572* | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Tree/572_SubtreeOfAnotherTree.java) | 07/01/2021 | Easy | 
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](./Tree/617_MergeTwoBinaryTrees.java) | 10/51/2021 | Easy | 
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./Tree/654_MaximumBinaryTree.java) | 11/16/2021 | Medium |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Solution](./Tree/690_EmployeeImportance.java) | 11/22/2021 | Medium |
 | 700^ | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./Tree/700_SearchInABinarySearchTree.java) | 05/13/2021 11/17/2021 | Easy |
 | 701^ | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution](./Tree/701_InsertIntoABinarySearchTree.java) | 11/17/2021 | Medium |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](./Tree/863_AllNodesDistanceKInBinaryTree.java) | 10/07/2021 | Medium |
