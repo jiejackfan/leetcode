@@ -117,6 +117,7 @@ My personal repository to practice on Leetcode.
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./Graph/210_CourseSchedule.java) | 08/31/2021 | Medium |
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Solution](./Graph/269_AlienDictionary.java) | 09/08/2021 | Hard |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Solution](./Graph/277_FindTheCelebrity.java) | 08/31/2021 | Medium |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Solution](./Graph/690_EmployeeImportance.java) | 11/22/2021 | Medium |
 
 # Heap / Priority Queue
 | NUM | TITLE | Solution | Date Visited | Difficulty |
