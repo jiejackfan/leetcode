@@ -46,6 +46,7 @@ My personal repository to practice on Leetcode.
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./Array/560_SubarraySumEqualsK.java) | 07/25/2021 | Medium |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Solution](./Array/735_AsteroidCollision.java) | 11/03/2021 | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](./Array/739_DailyTemperatures.java) | 10/17/2021 | Medium |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Solution](./Array/853_CarFleet.java) | 11/23/2021 | Medium |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution](./Array/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 10/07/2021 | Medium |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Solution](./Array/1465_MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts.java) | 07/24/2021 | Medium |
 | 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Solution](./Array/1509_MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves.java) | 11/20/2021 | Medium |
@@ -252,6 +253,7 @@ My personal repository to practice on Leetcode.
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./String/388_LongestAbsoluteFilePath.java) | 11/22/2021 | Medium |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 10/28/2021 | Medium |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](./String/792_NumberOfMatchingSubsequences.java) | 11/21/2021 | Medium |
+| 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./String/833_FindAndReplaceInString.java) | 11/23/2021 | Medium |
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [Solution](./String/843_GuessTheWord.java) | 11/04/2021 | Hard |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Solution](./String/937_ReorderDataInLogFiles.java) | 07/24/2021 10/24/2021 | Easy |
 | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./String/953_VerifyingAnAlienDictionary.java) | 07/28/2021 | Medium |
