@@ -252,6 +252,7 @@ My personal repository to practice on Leetcode.
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./String/387_FirstUniqueCharacterInAString.java) | 04/20/2021 | Easy |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./String/388_LongestAbsoluteFilePath.java) | 11/22/2021 | Medium |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Solution](./String/394_DecodeString.java) | 08/06/2021 10/28/2021 | Medium |
+| 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | [Solution](./String/418_SentenceScreenFitting.java) | 11/24/2021 | Medium |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](./String/792_NumberOfMatchingSubsequences.java) | 11/21/2021 | Medium |
 | 833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./String/833_FindAndReplaceInString.java) | 11/23/2021 | Medium |
 | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [Solution](./String/843_GuessTheWord.java) | 11/04/2021 | Hard |
